@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AmooPrep — Adaptive Study Companion</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <img src="../icons/icon128.png" alt="AmooPrep icon" />
+        <div><strong>AmooPrep</strong><span>Adaptive Study Companion</span></div>
+      </div>
+      <nav id="nav">
+        <button class="nav-item active" data-view="library">Course Library</button>
+        <button class="nav-item" data-view="dashboard">Dashboard</button>
+        <button class="nav-item" data-view="practice">Adaptive Practice</button>
+        <button class="nav-item" data-view="mock">Mock Final</button>
+        <button class="nav-item" data-view="units">Study by Unit</button>
+        <button class="nav-item" data-view="flashcards">Flashcards</button>
+        <button class="nav-item" data-view="timeline">Timeline</button>
+        <button class="nav-item" data-view="people">People & Ideas</button>
+        <button class="nav-item" data-view="weak">Weak Areas</button>
+        <button class="nav-item" data-view="progress">Progress</button>
+        <button class="nav-item premium-nav" data-view="premium">Premium Access</button>
+        <button class="nav-item" data-view="about">About</button>
+      </nav>
+      <div class="sidebar-foot"><span id="licenseBadge">Free Edition</span><small>Progress saved locally</small></div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div><p class="eyebrow" id="packEyebrow">AmooPrep Course Library</p><h1 id="viewTitle">Course Library</h1></div>
+        <div class="top-actions"><button id="quickPractice" class="btn primary">Start 10 Questions</button></div>
+      </header>
+      <section id="content" class="content"></section>
+    </main>
+  </div>
+  <div id="toast" class="toast" aria-live="polite"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

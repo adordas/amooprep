@@ -1,0 +1,14 @@
+{
+  "provider": "Lemon Squeezy",
+  "checkoutUrl": "",
+  "expectedProductId": "",
+  "expectedVariantId": "",
+  "price": "$9.99",
+  "licenseApiBase": "https://api.lemonsqueezy.com/v1/licenses",
+  "activationLabelPrefix": "AmooPrep Chrome",
+  "supportEmail": "YOUR_SUPPORT_EMAIL",
+  "landingPageUrl": "",
+  "privacyPolicyUrl": "https://adordas.github.io/amooprep/privacy.html",
+  "termsUrl": "https://adordas.github.io/amooprep/terms.html",
+  "refundPolicyUrl": "https://adordas.github.io/amooprep/refunds.html"
+}

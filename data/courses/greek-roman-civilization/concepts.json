@@ -1,0 +1,695 @@
+[
+  {
+    "id": "polis_definition",
+    "unit": 1,
+    "title": "Polis",
+    "summary": "The polis was an independent Greek political community combining government, law, religion, military defense, and civic identity.",
+    "key": "city-state and civic identity"
+  },
+  {
+    "id": "greek_geography",
+    "unit": 1,
+    "title": "Greek Geography",
+    "summary": "Mountainous terrain encouraged political fragmentation and the development of many independent poleis.",
+    "key": "mountains encouraged regional separation"
+  },
+  {
+    "id": "attica_unification",
+    "unit": 1,
+    "title": "Athens",
+    "summary": "Athens politically integrated the communities of Attica into one polis.",
+    "key": "political integration of Attica"
+  },
+  {
+    "id": "solon_reforms",
+    "unit": 1,
+    "title": "Solon",
+    "summary": "Solon addressed social conflict through reforms including debt relief and broader political participation tied to wealth.",
+    "key": "reform of debt and political participation"
+  },
+  {
+    "id": "cleisthenes_democracy",
+    "unit": 1,
+    "title": "Cleisthenes",
+    "summary": "Cleisthenes reorganized Athenian citizens into new political units and helped broaden participation, earning a central place in the development of democracy.",
+    "key": "reorganization that strengthened democracy"
+  },
+  {
+    "id": "athenian_assembly",
+    "unit": 1,
+    "title": "Athenian Assembly",
+    "summary": "Male citizens in the Athenian Assembly could debate and vote directly on public policy.",
+    "key": "direct citizen participation"
+  },
+  {
+    "id": "athenian_courts",
+    "unit": 1,
+    "title": "Athenian Courts",
+    "summary": "Large citizen juries made legal judgment another major form of democratic participation in Athens.",
+    "key": "citizen participation in courts"
+  },
+  {
+    "id": "citizenship_exclusion",
+    "unit": 1,
+    "title": "Athenian Citizenship",
+    "summary": "Athenian democracy excluded women, enslaved people, and resident foreigners from full political citizenship.",
+    "key": "limited citizenship"
+  },
+  {
+    "id": "herodotus_inquiry",
+    "unit": 1,
+    "title": "Historiography",
+    "summary": "Herodotus used inquiry, travel, testimony, and comparison of accounts to investigate the past.",
+    "key": "historical inquiry"
+  },
+  {
+    "id": "greek_interconnectedness",
+    "unit": 1,
+    "title": "Greek Identity",
+    "summary": "Shared language, religious festivals, myths, and customs helped create a Pan-Hellenic identity across separate poleis.",
+    "key": "shared Greek cultural identity"
+  },
+  {
+    "id": "hoplite_phalanx",
+    "unit": 1,
+    "title": "Greek Warfare",
+    "summary": "The hoplite phalanx depended on disciplined cooperation because each soldier’s shield helped protect a neighbor.",
+    "key": "collective military discipline"
+  },
+  {
+    "id": "agora_civic_space",
+    "unit": 1,
+    "title": "Agora",
+    "summary": "The agora served as a central public space for commerce, conversation, and civic activity in many Greek poleis.",
+    "key": "public civic and commercial space"
+  },
+  {
+    "id": "arete_excellence",
+    "unit": 2,
+    "title": "Arete",
+    "summary": "Arete meant excellence or fulfillment of valued qualities and could include courage, reason, skill, and service to the community.",
+    "key": "excellence and virtue"
+  },
+  {
+    "id": "socrates_questioning",
+    "unit": 2,
+    "title": "Socrates",
+    "summary": "Socrates used questioning to examine assumptions about justice, virtue, knowledge, and the good life.",
+    "key": "critical ethical questioning"
+  },
+  {
+    "id": "plato_ideal_state",
+    "unit": 2,
+    "title": "Plato",
+    "summary": "Plato imagined an ideal political order guided by wisdom and argued that rulers should possess philosophical knowledge.",
+    "key": "ideal rule guided by wisdom"
+  },
+  {
+    "id": "aristotle_practical",
+    "unit": 2,
+    "title": "Aristotle",
+    "summary": "Aristotle studied actual political systems and emphasized observation and practical analysis.",
+    "key": "empirical and practical analysis"
+  },
+  {
+    "id": "plato_pythagorean_math",
+    "unit": 2,
+    "title": "Plato & Pythagoras",
+    "summary": "Pythagorean ideas about number, proportion, and harmony influenced Plato’s view that reality had an intelligible order.",
+    "key": "mathematical harmony and order"
+  },
+  {
+    "id": "hippocrates_natural_medicine",
+    "unit": 2,
+    "title": "Hippocrates",
+    "summary": "Hippocratic medicine emphasized natural causes, careful observation, and ethical medical practice.",
+    "key": "naturalistic medicine"
+  },
+  {
+    "id": "greek_diagnosis_prognosis",
+    "unit": 2,
+    "title": "Greek Medicine",
+    "summary": "Greek physicians developed systematic diagnosis and prognosis based on observing symptoms and the course of disease.",
+    "key": "diagnosis and prognosis"
+  },
+  {
+    "id": "aristarchus_heliocentrism",
+    "unit": 2,
+    "title": "Aristarchus",
+    "summary": "Aristarchus proposed a heliocentric model in which Earth moved around the Sun.",
+    "key": "early heliocentrism"
+  },
+  {
+    "id": "olympics_arete",
+    "unit": 2,
+    "title": "Olympic Games",
+    "summary": "The Olympic Games combined religious festival, athletic competition, arete, and Pan-Hellenic identity.",
+    "key": "athletic excellence and shared identity"
+  },
+  {
+    "id": "temple_sanctuary",
+    "unit": 2,
+    "title": "Greek Temple",
+    "summary": "A temple sanctuary marked sacred space associated with the deity and worship.",
+    "key": "sacred worship space"
+  },
+  {
+    "id": "spartan_agoge",
+    "unit": 2,
+    "title": "Sparta",
+    "summary": "The agoge trained Spartan boys in discipline, endurance, obedience, and military service.",
+    "key": "state-directed military education"
+  },
+  {
+    "id": "spartan_iron_currency",
+    "unit": 2,
+    "title": "Sparta",
+    "summary": "Tradition associated Spartan iron currency with discouraging luxury, easy accumulation of wealth, and outside commerce.",
+    "key": "discouraging luxury"
+  },
+  {
+    "id": "athens_education",
+    "unit": 2,
+    "title": "Athenian Education",
+    "summary": "Athenian education for elite boys included literacy, music, physical training, rhetoric, and preparation for civic life.",
+    "key": "preparation for civic participation"
+  },
+  {
+    "id": "cyrus_achaemenid",
+    "unit": 3,
+    "title": "Cyrus the Great",
+    "summary": "Cyrus defeated Median power and built the foundation of the Achaemenid Persian Empire.",
+    "key": "Persian unification and imperial expansion"
+  },
+  {
+    "id": "darius_revolts",
+    "unit": 3,
+    "title": "Darius",
+    "summary": "Darius governed a vast empire that required administration, taxation, roads, and control of repeated revolts.",
+    "key": "challenges of governing a large empire"
+  },
+  {
+    "id": "ionian_revolt",
+    "unit": 3,
+    "title": "Ionian Revolt",
+    "summary": "The Ionian Revolt helped trigger the Greco-Persian Wars by bringing Greek cities in Asia Minor into rebellion against Persian rule.",
+    "key": "a cause of Greco-Persian conflict"
+  },
+  {
+    "id": "marathon",
+    "unit": 3,
+    "title": "Battle of Marathon",
+    "summary": "At Marathon in 490 BCE, Athenian-led forces defeated a Persian invasion, strengthening Athenian confidence.",
+    "key": "Greek victory over Persia"
+  },
+  {
+    "id": "thermopylae",
+    "unit": 3,
+    "title": "Thermopylae",
+    "summary": "The stand at Thermopylae demonstrated how terrain and disciplined resistance could delay a much larger Persian force.",
+    "key": "terrain and resistance"
+  },
+  {
+    "id": "salamis",
+    "unit": 3,
+    "title": "Battle of Salamis",
+    "summary": "The Greek naval victory at Salamis in 480 BCE damaged Persian naval power and helped turn the invasion.",
+    "key": "decisive Greek naval success"
+  },
+  {
+    "id": "delian_league",
+    "unit": 3,
+    "title": "Delian League",
+    "summary": "The Delian League began as an alliance against Persia but increasingly became an instrument of Athenian power.",
+    "key": "alliance transformed into Athenian empire"
+  },
+  {
+    "id": "delian_league_golden_age",
+    "unit": 3,
+    "title": "Athenian Golden Age",
+    "summary": "Tribute and resources connected to the Delian League supported Athenian military power and monumental building.",
+    "key": "resources supporting Athenian power and art"
+  },
+  {
+    "id": "peloponnesian_war",
+    "unit": 3,
+    "title": "Peloponnesian War",
+    "summary": "The Peloponnesian War pitted Athens and its allies against Sparta and its allies and weakened the Greek world.",
+    "key": "inter-Greek war that weakened major poleis"
+  },
+  {
+    "id": "sicilian_expedition",
+    "unit": 3,
+    "title": "Sicilian Expedition",
+    "summary": "Athens’ Sicilian Expedition ended disastrously and destroyed major forces, weakening Athens during the Peloponnesian War.",
+    "key": "overextension and military disaster"
+  },
+  {
+    "id": "thrasybulus_democracy",
+    "unit": 3,
+    "title": "Thrasybulus",
+    "summary": "Thrasybulus helped overthrow the Thirty Tyrants and restore Athenian democracy after the Peloponnesian War.",
+    "key": "restoration of democracy"
+  },
+  {
+    "id": "persia_corinthian_war",
+    "unit": 3,
+    "title": "Corinthian War",
+    "summary": "Persian intervention in the Corinthian War illustrates how outside funding and diplomacy could shape conflicts among Greek states.",
+    "key": "foreign influence on Greek politics"
+  },
+  {
+    "id": "leuctra_thebes",
+    "unit": 3,
+    "title": "Leuctra",
+    "summary": "Theban victory at Leuctra in 371 BCE broke Spartan military supremacy.",
+    "key": "end of Spartan dominance"
+  },
+  {
+    "id": "philip_macedon",
+    "unit": 3,
+    "title": "Philip II",
+    "summary": "Philip II strengthened Macedonia and defeated a coalition of Greek states, preparing the way for Alexander.",
+    "key": "Macedonian rise over Greece"
+  },
+  {
+    "id": "alexander_hellenism",
+    "unit": 3,
+    "title": "Alexander the Great",
+    "summary": "Alexander’s conquests spread Greek language and culture while also encouraging cultural blending across a vast empire.",
+    "key": "Hellenistic cultural diffusion"
+  },
+  {
+    "id": "hellenistic_art",
+    "unit": 3,
+    "title": "Hellenistic Art",
+    "summary": "Hellenistic art often emphasized movement, emotion, drama, age, and diverse subjects more strongly than earlier Classical idealism.",
+    "key": "emotion and dramatic realism"
+  },
+  {
+    "id": "long_walls_piraeus",
+    "unit": 3,
+    "title": "Long Walls",
+    "summary": "Athens’ Long Walls connected the city to Piraeus, preserving access to naval power, trade, and imported food.",
+    "key": "naval security and trade access"
+  },
+  {
+    "id": "rome_founding",
+    "unit": 4,
+    "title": "Early Rome",
+    "summary": "Roman tradition dated the founding of Rome to 753 BCE and told stories of Romulus and Remus.",
+    "key": "traditional foundation of Rome"
+  },
+  {
+    "id": "etruscan_influence",
+    "unit": 4,
+    "title": "Etruscan Influence",
+    "summary": "Early Rome borrowed religious symbols, engineering practices, political customs, and urban traditions from Etruscan neighbors.",
+    "key": "cultural borrowing from neighbors"
+  },
+  {
+    "id": "tullus_expansion",
+    "unit": 4,
+    "title": "Tullus Hostilius",
+    "summary": "The traditional destruction of Alba Longa under Tullus Hostilius symbolizes Rome’s early aggressive regional expansion.",
+    "key": "early regional expansion"
+  },
+  {
+    "id": "republic_consuls",
+    "unit": 4,
+    "title": "Roman Consuls",
+    "summary": "The Republic used two annually elected consuls to divide executive authority and reduce the danger of monarchy.",
+    "key": "shared executive power"
+  },
+  {
+    "id": "roman_senate",
+    "unit": 4,
+    "title": "Roman Senate",
+    "summary": "The Senate became a powerful council dominated by elite families and influenced finance, diplomacy, and policy.",
+    "key": "elite political influence"
+  },
+  {
+    "id": "patricians_patres",
+    "unit": 4,
+    "title": "Patricians",
+    "summary": "Patricians were associated with Rome’s old aristocratic families and early political privilege.",
+    "key": "aristocratic family power"
+  },
+  {
+    "id": "plebeians_orders",
+    "unit": 4,
+    "title": "Plebeians",
+    "summary": "The Struggle of the Orders describes plebeian efforts to gain political protections and greater access to office and law.",
+    "key": "social conflict leading to political concessions"
+  },
+  {
+    "id": "tribunes_veto",
+    "unit": 4,
+    "title": "Tribunes",
+    "summary": "Tribunes of the plebs could protect plebeians and use the veto against actions harmful to them.",
+    "key": "plebeian political protection"
+  },
+  {
+    "id": "twelve_tables",
+    "unit": 4,
+    "title": "Twelve Tables",
+    "summary": "The Twelve Tables made key legal rules public and became an important symbol of written Roman law.",
+    "key": "public written law"
+  },
+  {
+    "id": "cincinnatus_virtue",
+    "unit": 4,
+    "title": "Cincinnatus",
+    "summary": "Cincinnatus became a Roman model of civic virtue because tradition said he surrendered emergency power and returned to private life.",
+    "key": "temporary power and civic duty"
+  },
+  {
+    "id": "rome_salt",
+    "unit": 4,
+    "title": "Salt and Early Rome",
+    "summary": "Access to salt and trade routes helped make Rome’s location economically valuable.",
+    "key": "trade and preservation value of salt"
+  },
+  {
+    "id": "roman_roads_early",
+    "unit": 4,
+    "title": "Roman Roads",
+    "summary": "Road building linked communities, supported trade, administration, and military movement as Roman power expanded.",
+    "key": "integration and mobility"
+  },
+  {
+    "id": "punic_wars",
+    "unit": 5,
+    "title": "Punic Wars",
+    "summary": "The Punic Wars were a series of conflicts between Rome and Carthage that transformed Rome into the dominant western Mediterranean power.",
+    "key": "Rome-Carthage struggle"
+  },
+  {
+    "id": "hannibal_strategy",
+    "unit": 5,
+    "title": "Hannibal",
+    "summary": "Hannibal’s invasion of Italy across the Alps was an innovative attempt to defeat Rome on its own territory.",
+    "key": "bold overland invasion"
+  },
+  {
+    "id": "cannae",
+    "unit": 5,
+    "title": "Cannae",
+    "summary": "At Cannae, Hannibal used encirclement to destroy a much larger Roman army, demonstrating tactical flexibility.",
+    "key": "double-envelopment victory"
+  },
+  {
+    "id": "scipio_adaptation",
+    "unit": 5,
+    "title": "Scipio Africanus",
+    "summary": "Scipio shifted the war to North Africa and adapted tactics that helped defeat Hannibal at Zama.",
+    "key": "adaptation and strategic counterattack"
+  },
+  {
+    "id": "zama",
+    "unit": 5,
+    "title": "Battle of Zama",
+    "summary": "The Roman victory at Zama in 202 BCE ended the Second Punic War and broke Carthaginian military power.",
+    "key": "Roman victory ending Second Punic War"
+  },
+  {
+    "id": "rome_greece",
+    "unit": 5,
+    "title": "Roman Conquest of Greece",
+    "summary": "Rome increasingly intervened in Greek conflicts and eventually destroyed Corinth in 146 BCE, consolidating control.",
+    "key": "Roman domination of Greece"
+  },
+  {
+    "id": "caesar_pompeia",
+    "unit": 5,
+    "title": "Caesar and Pompeia",
+    "summary": "The Bona Dea scandal produced Caesar’s famous claim that his wife had to be above suspicion, illustrating elite reputation politics.",
+    "key": "elite reputation and political image"
+  },
+  {
+    "id": "caesar_rubicon",
+    "unit": 5,
+    "title": "Caesar and the Rubicon",
+    "summary": "Caesar’s crossing of the Rubicon in 49 BCE symbolized the breakdown of Republican norms and the start of civil war.",
+    "key": "collapse of Republican restraint"
+  },
+  {
+    "id": "republic_empire_shift",
+    "unit": 5,
+    "title": "Republic to Empire",
+    "summary": "The late Republic’s civil wars and concentration of military loyalty contributed to a shift from shared republican rule toward one-man imperial power.",
+    "key": "concentration of political power"
+  },
+  {
+    "id": "augustus_principate",
+    "unit": 5,
+    "title": "Augustus",
+    "summary": "Augustus maintained republican titles and institutions while concentrating real authority in the principate.",
+    "key": "monarchical power under republican forms"
+  },
+  {
+    "id": "roman_roads_military",
+    "unit": 5,
+    "title": "Roman Roads",
+    "summary": "Roads enabled rapid troop deployment, administration, communication, and movement of goods across Roman territory.",
+    "key": "military and administrative mobility"
+  },
+  {
+    "id": "roman_provinces",
+    "unit": 5,
+    "title": "Roman Provinces",
+    "summary": "Provincial government allowed Rome to administer conquered territories through governors, taxation, law, and military presence.",
+    "key": "administration of conquered territory"
+  },
+  {
+    "id": "pax_romana",
+    "unit": 5,
+    "title": "Pax Romana",
+    "summary": "The Pax Romana describes a long period of relative imperial stability that encouraged trade, travel, urban growth, and cultural exchange.",
+    "key": "relative stability and integration"
+  },
+  {
+    "id": "paterfamilias",
+    "unit": 6,
+    "title": "Paterfamilias",
+    "summary": "Roman family law traditionally placed major household authority in the male head of family, the paterfamilias.",
+    "key": "patriarchal household authority"
+  },
+  {
+    "id": "women_guardianship",
+    "unit": 6,
+    "title": "Women and Guardianship",
+    "summary": "Legal guardianship illustrates the restrictions placed on Roman women even when some elite women gained property or social influence.",
+    "key": "patriarchal legal control"
+  },
+  {
+    "id": "manus_marriage",
+    "unit": 6,
+    "title": "Manus Marriage",
+    "summary": "In manus marriage, a woman entered the legal authority of her husband or his family.",
+    "key": "transfer of legal authority"
+  },
+  {
+    "id": "political_marriage",
+    "unit": 6,
+    "title": "Political Marriage",
+    "summary": "Elite Roman marriages could connect powerful families and function as tools of political strategy.",
+    "key": "family alliances and politics"
+  },
+  {
+    "id": "roman_engagement",
+    "unit": 6,
+    "title": "Roman Engagement",
+    "summary": "Early engagement and marriage practices often reflected family strategy, inheritance, and social alliances more than individual romantic choice.",
+    "key": "family alliance strategy"
+  },
+  {
+    "id": "agrippina_influence",
+    "unit": 6,
+    "title": "Agrippina the Elder",
+    "summary": "Agrippina the Elder shows that elite Roman women could exert informal political or military influence without holding formal command.",
+    "key": "informal female influence"
+  },
+  {
+    "id": "slavery_rome",
+    "unit": 6,
+    "title": "Roman Slavery",
+    "summary": "Enslaved people performed domestic, agricultural, industrial, educational, and administrative labor throughout Roman society.",
+    "key": "slavery across many economic roles"
+  },
+  {
+    "id": "patronage",
+    "unit": 6,
+    "title": "Patronage",
+    "summary": "Roman patron-client relationships exchanged protection, access, influence, and services across unequal social ranks.",
+    "key": "reciprocal but unequal social ties"
+  },
+  {
+    "id": "roman_baths",
+    "unit": 6,
+    "title": "Roman Baths",
+    "summary": "Public baths functioned as places for hygiene, exercise, leisure, and social interaction.",
+    "key": "social and recreational urban space"
+  },
+  {
+    "id": "roman_bust",
+    "unit": 6,
+    "title": "Roman Busts",
+    "summary": "Portrait busts helped preserve identity, ancestry, status, and memory in Roman visual culture.",
+    "key": "individual identity and memory"
+  },
+  {
+    "id": "veristic_portraiture",
+    "unit": 6,
+    "title": "Verism",
+    "summary": "Veristic portraiture emphasized age, wrinkles, and distinctive features to communicate experience and civic seriousness.",
+    "key": "realism tied to civic values"
+  },
+  {
+    "id": "opus_caementicium",
+    "unit": 6,
+    "title": "Roman Concrete",
+    "summary": "Opus caementicium gave Roman builders flexibility for vaults, domes, large structures, and durable marine construction.",
+    "key": "versatile concrete engineering"
+  },
+  {
+    "id": "basilica_christian",
+    "unit": 6,
+    "title": "Basilica",
+    "summary": "The Roman basilica’s spacious hall and aisles made the form useful for later Christian congregational worship.",
+    "key": "adaptable large interior space"
+  },
+  {
+    "id": "column_base",
+    "unit": 6,
+    "title": "Column Base",
+    "summary": "A column base transfers the shaft’s load into the supporting structure and can also contribute to the architectural order.",
+    "key": "load distribution and support"
+  },
+  {
+    "id": "roman_state_religion",
+    "unit": 7,
+    "title": "Roman State Religion",
+    "summary": "Roman public religion emphasized correct ritual, sacrifice, priesthoods, and maintaining favorable relations with the gods.",
+    "key": "ritual practice tied to civic life"
+  },
+  {
+    "id": "roman_syncretism",
+    "unit": 7,
+    "title": "Religious Syncretism",
+    "summary": "Roman religion was highly adaptable and frequently identified, adopted, or blended deities and practices from conquered peoples.",
+    "key": "adaptable religious blending"
+  },
+  {
+    "id": "imperial_cult",
+    "unit": 7,
+    "title": "Imperial Cult",
+    "summary": "The imperial cult linked loyalty to emperor and empire with public ritual, civic identity, and political authority.",
+    "key": "religion reinforcing political loyalty"
+  },
+  {
+    "id": "stoicism",
+    "unit": 7,
+    "title": "Stoicism",
+    "summary": "Stoicism taught self-control, reason, duty, and living according to nature, making it attractive to many Roman elites and public servants.",
+    "key": "reason, duty, and self-control"
+  },
+  {
+    "id": "epicureanism",
+    "unit": 7,
+    "title": "Epicureanism",
+    "summary": "Epicurean ethics sought tranquility and freedom from unnecessary fear and pain through moderation, friendship, and rational understanding.",
+    "key": "tranquility and freedom from fear"
+  },
+  {
+    "id": "neoplatonism",
+    "unit": 7,
+    "title": "Neoplatonism",
+    "summary": "Neoplatonism developed a philosophical tradition centered on a highest principle and the soul’s ascent toward unity and truth.",
+    "key": "spiritual philosophical ascent"
+  },
+  {
+    "id": "christianity_rome",
+    "unit": 7,
+    "title": "Christianity in Rome",
+    "summary": "Christianity grew from a minority movement into a major imperial religion, changing Roman religious and cultural life.",
+    "key": "religious transformation of the empire"
+  },
+  {
+    "id": "religion_legitimacy",
+    "unit": 7,
+    "title": "Religion and Authority",
+    "summary": "Roman rulers and institutions used religious offices, rituals, omens, and sacred symbols to legitimize political authority.",
+    "key": "religion supporting political legitimacy"
+  },
+  {
+    "id": "legacy_democracy",
+    "unit": 8,
+    "title": "Democratic Legacy",
+    "summary": "Modern democratic participation draws on Greek examples of citizen debate and voting while expanding citizenship far beyond ancient limits.",
+    "key": "adapted Greek civic participation"
+  },
+  {
+    "id": "legacy_rule_law",
+    "unit": 8,
+    "title": "Rule of Law",
+    "summary": "Modern constitutional systems draw on Roman traditions of written law, legal procedure, citizenship, and interpretation while transforming them in new contexts.",
+    "key": "Roman legal influence adapted to modern law"
+  },
+  {
+    "id": "legacy_education",
+    "unit": 8,
+    "title": "Classical Education Legacy",
+    "summary": "Teaching logic, rhetoric, critical thinking, philosophy, and civic reasoning continues important Greek and Roman intellectual traditions.",
+    "key": "critical thinking and rhetoric"
+  },
+  {
+    "id": "legacy_architecture",
+    "unit": 8,
+    "title": "Neoclassical Architecture",
+    "summary": "Columns, pediments, symmetry, and monumental classical forms are often used by modern governments to signal stability, authority, rationality, and civic order.",
+    "key": "classical forms as civic symbolism"
+  },
+  {
+    "id": "legacy_courts",
+    "unit": 8,
+    "title": "Constitutional Courts",
+    "summary": "Constitutional courts reflect ideals of stable written law, legal interpretation, precedent, and limits on political power.",
+    "key": "law interpreted through institutions"
+  },
+  {
+    "id": "legacy_republic",
+    "unit": 8,
+    "title": "Republican Legacy",
+    "summary": "Modern representative government combines ideas of civic participation with institutional structures, divided offices, and legal limits on power.",
+    "key": "participation plus institutional restraint"
+  },
+  {
+    "id": "legacy_language",
+    "unit": 8,
+    "title": "Latin Legacy",
+    "summary": "Latin influenced modern vocabulary, law, science, religion, and the development of Romance languages.",
+    "key": "language and vocabulary legacy"
+  },
+  {
+    "id": "legacy_infrastructure",
+    "unit": 8,
+    "title": "Infrastructure Legacy",
+    "summary": "Roman roads, bridges, aqueducts, concrete, and urban planning remain models for how infrastructure can integrate large societies.",
+    "key": "engineering and integration"
+  },
+  {
+    "id": "legacy_art",
+    "unit": 8,
+    "title": "Artistic Legacy",
+    "summary": "Greek idealism, Hellenistic expression, and Roman realism continue to influence later Western art and public monuments.",
+    "key": "multiple classical artistic traditions"
+  },
+  {
+    "id": "legacy_citizenship",
+    "unit": 8,
+    "title": "Citizenship Legacy",
+    "summary": "Modern citizenship expands beyond the narrow categories of ancient Athens and Rome while retaining ideas of rights, duties, public participation, and law.",
+    "key": "expanded and transformed citizenship"
+  }
+]

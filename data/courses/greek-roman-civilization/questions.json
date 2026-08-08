@@ -1,0 +1,4238 @@
+[
+  {
+    "id": "GEN-001",
+    "unit": 1,
+    "topic": "Polis",
+    "concept": "polis_definition",
+    "prompt": "Which choice best captures the historical significance of Polis?",
+    "options": [
+      "a private estate",
+      "a Persian province",
+      "a Roman legion",
+      "city-state and civic identity"
+    ],
+    "answer": 3,
+    "explanation": "The polis was an independent Greek political community combining government, law, religion, military defense, and civic identity.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-20",
+      "GEN-002"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-002",
+    "unit": 1,
+    "topic": "Polis",
+    "concept": "polis_definition",
+    "prompt": "Identify the concept or subject described here: The polis was an independent Greek political community combining government, law, religion, military defense, and civic identity.",
+    "options": [
+      "Polis",
+      "Greek Geography",
+      "Athens",
+      "Solon"
+    ],
+    "answer": 0,
+    "explanation": "The polis was an independent Greek political community combining government, law, religion, military defense, and civic identity.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-20",
+      "GEN-001"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-003",
+    "unit": 1,
+    "topic": "Greek Geography",
+    "concept": "greek_geography",
+    "prompt": "Which choice best captures the historical significance of Greek Geography?",
+    "options": [
+      "rivers unified all Greece",
+      "mountains encouraged regional separation",
+      "flat plains created one kingdom",
+      "desert blocked sea travel"
+    ],
+    "answer": 1,
+    "explanation": "Mountainous terrain encouraged political fragmentation and the development of many independent poleis.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-004"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-004",
+    "unit": 1,
+    "topic": "Greek Geography",
+    "concept": "greek_geography",
+    "prompt": "Identify the concept or subject described here: Mountainous terrain encouraged political fragmentation and the development of many independent poleis.",
+    "options": [
+      "Athens",
+      "Solon",
+      "Greek Geography",
+      "Polis"
+    ],
+    "answer": 2,
+    "explanation": "Mountainous terrain encouraged political fragmentation and the development of many independent poleis.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-003"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-005",
+    "unit": 1,
+    "topic": "Athens",
+    "concept": "attica_unification",
+    "prompt": "Which choice best captures the historical significance of Athens?",
+    "options": [
+      "Spartan conquest of Sicily",
+      "Persian settlement of Athens",
+      "Roman annexation of Macedonia",
+      "political integration of Attica"
+    ],
+    "answer": 3,
+    "explanation": "Athens politically integrated the communities of Attica into one polis.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-17",
+      "GEN-006"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-006",
+    "unit": 1,
+    "topic": "Athens",
+    "concept": "attica_unification",
+    "prompt": "Identify the concept or subject described here: Athens politically integrated the communities of Attica into one polis.",
+    "options": [
+      "Athens",
+      "Polis",
+      "Greek Geography",
+      "Solon"
+    ],
+    "answer": 0,
+    "explanation": "Athens politically integrated the communities of Attica into one polis.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-17",
+      "GEN-005"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-007",
+    "unit": 1,
+    "topic": "Solon",
+    "concept": "solon_reforms",
+    "prompt": "Which choice best captures the historical significance of Solon?",
+    "options": [
+      "restoration of monarchy",
+      "reform of debt and political participation",
+      "creation of the Roman Senate",
+      "abolition of all private property"
+    ],
+    "answer": 1,
+    "explanation": "Solon addressed social conflict through reforms including debt relief and broader political participation tied to wealth.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-008"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-008",
+    "unit": 1,
+    "topic": "Solon",
+    "concept": "solon_reforms",
+    "prompt": "Identify the concept or subject described here: Solon addressed social conflict through reforms including debt relief and broader political participation tied to wealth.",
+    "options": [
+      "Greek Geography",
+      "Athens",
+      "Solon",
+      "Polis"
+    ],
+    "answer": 2,
+    "explanation": "Solon addressed social conflict through reforms including debt relief and broader political participation tied to wealth.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-007"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-009",
+    "unit": 1,
+    "topic": "Cleisthenes",
+    "concept": "cleisthenes_democracy",
+    "prompt": "Which choice best captures the historical significance of Cleisthenes?",
+    "options": [
+      "Spartan military reform",
+      "Persian taxation",
+      "Roman imperial cult",
+      "reorganization that strengthened democracy"
+    ],
+    "answer": 3,
+    "explanation": "Cleisthenes reorganized Athenian citizens into new political units and helped broaden participation, earning a central place in the development of democracy.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-010"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-010",
+    "unit": 1,
+    "topic": "Cleisthenes",
+    "concept": "cleisthenes_democracy",
+    "prompt": "Identify the concept or subject described here: Cleisthenes reorganized Athenian citizens into new political units and helped broaden participation, earning a central place in the development of democracy.",
+    "options": [
+      "Cleisthenes",
+      "Polis",
+      "Greek Geography",
+      "Athens"
+    ],
+    "answer": 0,
+    "explanation": "Cleisthenes reorganized Athenian citizens into new political units and helped broaden participation, earning a central place in the development of democracy.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-009"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-011",
+    "unit": 1,
+    "topic": "Athenian Assembly",
+    "concept": "athenian_assembly",
+    "prompt": "Which choice best captures the historical significance of Athenian Assembly?",
+    "options": [
+      "government by priests only",
+      "direct citizen participation",
+      "hereditary royal rule",
+      "rule by foreign governors"
+    ],
+    "answer": 1,
+    "explanation": "Male citizens in the Athenian Assembly could debate and vote directly on public policy.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-012"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-012",
+    "unit": 1,
+    "topic": "Athenian Assembly",
+    "concept": "athenian_assembly",
+    "prompt": "Identify the concept or subject described here: Male citizens in the Athenian Assembly could debate and vote directly on public policy.",
+    "options": [
+      "Greek Geography",
+      "Athens",
+      "Athenian Assembly",
+      "Polis"
+    ],
+    "answer": 2,
+    "explanation": "Male citizens in the Athenian Assembly could debate and vote directly on public policy.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-011"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-013",
+    "unit": 1,
+    "topic": "Athenian Courts",
+    "concept": "athenian_courts",
+    "prompt": "Which choice best captures the historical significance of Athenian Courts?",
+    "options": [
+      "professional judges appointed for life",
+      "military tribunals only",
+      "Persian satrap courts",
+      "citizen participation in courts"
+    ],
+    "answer": 3,
+    "explanation": "Large citizen juries made legal judgment another major form of democratic participation in Athens.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-014"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-014",
+    "unit": 1,
+    "topic": "Athenian Courts",
+    "concept": "athenian_courts",
+    "prompt": "Identify the concept or subject described here: Large citizen juries made legal judgment another major form of democratic participation in Athens.",
+    "options": [
+      "Athenian Courts",
+      "Polis",
+      "Greek Geography",
+      "Athens"
+    ],
+    "answer": 0,
+    "explanation": "Large citizen juries made legal judgment another major form of democratic participation in Athens.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-013"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-015",
+    "unit": 1,
+    "topic": "Athenian Citizenship",
+    "concept": "citizenship_exclusion",
+    "prompt": "Which choice best captures the historical significance of Athenian Citizenship?",
+    "options": [
+      "equal rights for enslaved people",
+      "limited citizenship",
+      "universal adult suffrage",
+      "female majority rule"
+    ],
+    "answer": 1,
+    "explanation": "Athenian democracy excluded women, enslaved people, and resident foreigners from full political citizenship.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-016"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-016",
+    "unit": 1,
+    "topic": "Athenian Citizenship",
+    "concept": "citizenship_exclusion",
+    "prompt": "Identify the concept or subject described here: Athenian democracy excluded women, enslaved people, and resident foreigners from full political citizenship.",
+    "options": [
+      "Greek Geography",
+      "Athens",
+      "Athenian Citizenship",
+      "Polis"
+    ],
+    "answer": 2,
+    "explanation": "Athenian democracy excluded women, enslaved people, and resident foreigners from full political citizenship.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-015"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-017",
+    "unit": 1,
+    "topic": "Historiography",
+    "concept": "herodotus_inquiry",
+    "prompt": "Which choice best captures the historical significance of Historiography?",
+    "options": [
+      "mathematical proof only",
+      "religious prophecy only",
+      "military orders",
+      "historical inquiry"
+    ],
+    "answer": 3,
+    "explanation": "Herodotus used inquiry, travel, testimony, and comparison of accounts to investigate the past.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-10",
+      "GEN-018"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-018",
+    "unit": 1,
+    "topic": "Historiography",
+    "concept": "herodotus_inquiry",
+    "prompt": "Identify the concept or subject described here: Herodotus used inquiry, travel, testimony, and comparison of accounts to investigate the past.",
+    "options": [
+      "Historiography",
+      "Polis",
+      "Greek Geography",
+      "Athens"
+    ],
+    "answer": 0,
+    "explanation": "Herodotus used inquiry, travel, testimony, and comparison of accounts to investigate the past.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-10",
+      "GEN-017"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-019",
+    "unit": 1,
+    "topic": "Greek Identity",
+    "concept": "greek_interconnectedness",
+    "prompt": "Which choice best captures the historical significance of Greek Identity?",
+    "options": [
+      "complete political unification",
+      "shared Greek cultural identity",
+      "a single permanent king",
+      "Roman citizenship"
+    ],
+    "answer": 1,
+    "explanation": "Shared language, religious festivals, myths, and customs helped create a Pan-Hellenic identity across separate poleis.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-12",
+      "GEN-020"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-020",
+    "unit": 1,
+    "topic": "Greek Identity",
+    "concept": "greek_interconnectedness",
+    "prompt": "Identify the concept or subject described here: Shared language, religious festivals, myths, and customs helped create a Pan-Hellenic identity across separate poleis.",
+    "options": [
+      "Greek Geography",
+      "Athens",
+      "Greek Identity",
+      "Polis"
+    ],
+    "answer": 2,
+    "explanation": "Shared language, religious festivals, myths, and customs helped create a Pan-Hellenic identity across separate poleis.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-12",
+      "GEN-019"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-021",
+    "unit": 1,
+    "topic": "Greek Warfare",
+    "concept": "hoplite_phalanx",
+    "prompt": "Which choice best captures the historical significance of Greek Warfare?",
+    "options": [
+      "individual chariot duels",
+      "naval piracy",
+      "archery from horseback",
+      "collective military discipline"
+    ],
+    "answer": 3,
+    "explanation": "The hoplite phalanx depended on disciplined cooperation because each soldier’s shield helped protect a neighbor.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-022"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-022",
+    "unit": 1,
+    "topic": "Greek Warfare",
+    "concept": "hoplite_phalanx",
+    "prompt": "Identify the concept or subject described here: The hoplite phalanx depended on disciplined cooperation because each soldier’s shield helped protect a neighbor.",
+    "options": [
+      "Greek Warfare",
+      "Polis",
+      "Greek Geography",
+      "Athens"
+    ],
+    "answer": 0,
+    "explanation": "The hoplite phalanx depended on disciplined cooperation because each soldier’s shield helped protect a neighbor.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-021"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-023",
+    "unit": 1,
+    "topic": "Agora",
+    "concept": "agora_civic_space",
+    "prompt": "Which choice best captures the historical significance of Agora?",
+    "options": [
+      "private farm",
+      "public civic and commercial space",
+      "royal burial chamber",
+      "military barracks"
+    ],
+    "answer": 1,
+    "explanation": "The agora served as a central public space for commerce, conversation, and civic activity in many Greek poleis.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-024"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-024",
+    "unit": 1,
+    "topic": "Agora",
+    "concept": "agora_civic_space",
+    "prompt": "Identify the concept or subject described here: The agora served as a central public space for commerce, conversation, and civic activity in many Greek poleis.",
+    "options": [
+      "Greek Geography",
+      "Athens",
+      "Agora",
+      "Polis"
+    ],
+    "answer": 2,
+    "explanation": "The agora served as a central public space for commerce, conversation, and civic activity in many Greek poleis.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-023"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-025",
+    "unit": 2,
+    "topic": "Arete",
+    "concept": "arete_excellence",
+    "prompt": "Which choice best captures the historical significance of Arete?",
+    "options": [
+      "wealth alone",
+      "obedience to a foreign king",
+      "excellence and virtue",
+      "withdrawal from society"
+    ],
+    "answer": 2,
+    "explanation": "Arete meant excellence or fulfillment of valued qualities and could include courage, reason, skill, and service to the community.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-026"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-026",
+    "unit": 2,
+    "topic": "Arete",
+    "concept": "arete_excellence",
+    "prompt": "Identify the concept or subject described here: Arete meant excellence or fulfillment of valued qualities and could include courage, reason, skill, and service to the community.",
+    "options": [
+      "Socrates",
+      "Plato",
+      "Aristotle",
+      "Arete"
+    ],
+    "answer": 3,
+    "explanation": "Arete meant excellence or fulfillment of valued qualities and could include courage, reason, skill, and service to the community.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-025"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-027",
+    "unit": 2,
+    "topic": "Socrates",
+    "concept": "socrates_questioning",
+    "prompt": "Which choice best captures the historical significance of Socrates?",
+    "options": [
+      "critical ethical questioning",
+      "astrological prediction",
+      "imperial administration",
+      "military conquest"
+    ],
+    "answer": 0,
+    "explanation": "Socrates used questioning to examine assumptions about justice, virtue, knowledge, and the good life.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-028"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-028",
+    "unit": 2,
+    "topic": "Socrates",
+    "concept": "socrates_questioning",
+    "prompt": "Identify the concept or subject described here: Socrates used questioning to examine assumptions about justice, virtue, knowledge, and the good life.",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Arete",
+      "Plato"
+    ],
+    "answer": 1,
+    "explanation": "Socrates used questioning to examine assumptions about justice, virtue, knowledge, and the good life.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-027"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-029",
+    "unit": 2,
+    "topic": "Plato",
+    "concept": "plato_ideal_state",
+    "prompt": "Which choice best captures the historical significance of Plato?",
+    "options": [
+      "rule by lottery without education",
+      "absolute rejection of philosophy",
+      "ideal rule guided by wisdom",
+      "government by merchants only"
+    ],
+    "answer": 2,
+    "explanation": "Plato imagined an ideal political order guided by wisdom and argued that rulers should possess philosophical knowledge.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-030"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-030",
+    "unit": 2,
+    "topic": "Plato",
+    "concept": "plato_ideal_state",
+    "prompt": "Identify the concept or subject described here: Plato imagined an ideal political order guided by wisdom and argued that rulers should possess philosophical knowledge.",
+    "options": [
+      "Arete",
+      "Socrates",
+      "Aristotle",
+      "Plato"
+    ],
+    "answer": 3,
+    "explanation": "Plato imagined an ideal political order guided by wisdom and argued that rulers should possess philosophical knowledge.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-029"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-031",
+    "unit": 2,
+    "topic": "Aristotle",
+    "concept": "aristotle_practical",
+    "prompt": "Which choice best captures the historical significance of Aristotle?",
+    "options": [
+      "empirical and practical analysis",
+      "mystical revelation as politics",
+      "hereditary monarchy only",
+      "abolition of law"
+    ],
+    "answer": 0,
+    "explanation": "Aristotle studied actual political systems and emphasized observation and practical analysis.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-01",
+      "GEN-032"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-032",
+    "unit": 2,
+    "topic": "Aristotle",
+    "concept": "aristotle_practical",
+    "prompt": "Identify the concept or subject described here: Aristotle studied actual political systems and emphasized observation and practical analysis.",
+    "options": [
+      "Plato",
+      "Aristotle",
+      "Arete",
+      "Socrates"
+    ],
+    "answer": 1,
+    "explanation": "Aristotle studied actual political systems and emphasized observation and practical analysis.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-01",
+      "GEN-031"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-033",
+    "unit": 2,
+    "topic": "Plato & Pythagoras",
+    "concept": "plato_pythagorean_math",
+    "prompt": "Which choice best captures the historical significance of Plato & Pythagoras?",
+    "options": [
+      "Roman law",
+      "Persian religion",
+      "mathematical harmony and order",
+      "naval technology"
+    ],
+    "answer": 2,
+    "explanation": "Pythagorean ideas about number, proportion, and harmony influenced Plato’s view that reality had an intelligible order.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-24",
+      "GEN-034"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-034",
+    "unit": 2,
+    "topic": "Plato & Pythagoras",
+    "concept": "plato_pythagorean_math",
+    "prompt": "Identify the concept or subject described here: Pythagorean ideas about number, proportion, and harmony influenced Plato’s view that reality had an intelligible order.",
+    "options": [
+      "Arete",
+      "Socrates",
+      "Plato",
+      "Plato & Pythagoras"
+    ],
+    "answer": 3,
+    "explanation": "Pythagorean ideas about number, proportion, and harmony influenced Plato’s view that reality had an intelligible order.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-24",
+      "GEN-033"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-035",
+    "unit": 2,
+    "topic": "Hippocrates",
+    "concept": "hippocrates_natural_medicine",
+    "prompt": "Which choice best captures the historical significance of Hippocrates?",
+    "options": [
+      "naturalistic medicine",
+      "healing by warfare",
+      "medicine based only on omens",
+      "rejection of diagnosis"
+    ],
+    "answer": 0,
+    "explanation": "Hippocratic medicine emphasized natural causes, careful observation, and ethical medical practice.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-21",
+      "GEN-036"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-036",
+    "unit": 2,
+    "topic": "Hippocrates",
+    "concept": "hippocrates_natural_medicine",
+    "prompt": "Identify the concept or subject described here: Hippocratic medicine emphasized natural causes, careful observation, and ethical medical practice.",
+    "options": [
+      "Plato",
+      "Hippocrates",
+      "Arete",
+      "Socrates"
+    ],
+    "answer": 1,
+    "explanation": "Hippocratic medicine emphasized natural causes, careful observation, and ethical medical practice.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-21",
+      "GEN-035"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-037",
+    "unit": 2,
+    "topic": "Greek Medicine",
+    "concept": "greek_diagnosis_prognosis",
+    "prompt": "Which choice best captures the historical significance of Greek Medicine?",
+    "options": [
+      "universal surgery",
+      "anesthesia",
+      "diagnosis and prognosis",
+      "alchemy and astrology only"
+    ],
+    "answer": 2,
+    "explanation": "Greek physicians developed systematic diagnosis and prognosis based on observing symptoms and the course of disease.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-31",
+      "GEN-038"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-038",
+    "unit": 2,
+    "topic": "Greek Medicine",
+    "concept": "greek_diagnosis_prognosis",
+    "prompt": "Identify the concept or subject described here: Greek physicians developed systematic diagnosis and prognosis based on observing symptoms and the course of disease.",
+    "options": [
+      "Arete",
+      "Socrates",
+      "Plato",
+      "Greek Medicine"
+    ],
+    "answer": 3,
+    "explanation": "Greek physicians developed systematic diagnosis and prognosis based on observing symptoms and the course of disease.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-31",
+      "GEN-037"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-039",
+    "unit": 2,
+    "topic": "Aristarchus",
+    "concept": "aristarchus_heliocentrism",
+    "prompt": "Which choice best captures the historical significance of Aristarchus?",
+    "options": [
+      "early heliocentrism",
+      "a flat Earth model",
+      "Roman state religion",
+      "geocentrism as the only possibility"
+    ],
+    "answer": 0,
+    "explanation": "Aristarchus proposed a heliocentric model in which Earth moved around the Sun.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-05",
+      "GEN-040"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-040",
+    "unit": 2,
+    "topic": "Aristarchus",
+    "concept": "aristarchus_heliocentrism",
+    "prompt": "Identify the concept or subject described here: Aristarchus proposed a heliocentric model in which Earth moved around the Sun.",
+    "options": [
+      "Plato",
+      "Aristarchus",
+      "Arete",
+      "Socrates"
+    ],
+    "answer": 1,
+    "explanation": "Aristarchus proposed a heliocentric model in which Earth moved around the Sun.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-05",
+      "GEN-039"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-041",
+    "unit": 2,
+    "topic": "Olympic Games",
+    "concept": "olympics_arete",
+    "prompt": "Which choice best captures the historical significance of Olympic Games?",
+    "options": [
+      "Persian coronation",
+      "Spartan isolation",
+      "athletic excellence and shared identity",
+      "Roman gladiatorial combat"
+    ],
+    "answer": 2,
+    "explanation": "The Olympic Games combined religious festival, athletic competition, arete, and Pan-Hellenic identity.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-25",
+      "GEN-042"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-042",
+    "unit": 2,
+    "topic": "Olympic Games",
+    "concept": "olympics_arete",
+    "prompt": "Identify the concept or subject described here: The Olympic Games combined religious festival, athletic competition, arete, and Pan-Hellenic identity.",
+    "options": [
+      "Arete",
+      "Socrates",
+      "Plato",
+      "Olympic Games"
+    ],
+    "answer": 3,
+    "explanation": "The Olympic Games combined religious festival, athletic competition, arete, and Pan-Hellenic identity.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-25",
+      "GEN-041"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-043",
+    "unit": 2,
+    "topic": "Greek Temple",
+    "concept": "temple_sanctuary",
+    "prompt": "Which choice best captures the historical significance of Greek Temple?",
+    "options": [
+      "sacred worship space",
+      "public tax office",
+      "grain warehouse",
+      "soldier housing"
+    ],
+    "answer": 0,
+    "explanation": "A temple sanctuary marked sacred space associated with the deity and worship.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-02",
+      "GEN-044"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-044",
+    "unit": 2,
+    "topic": "Greek Temple",
+    "concept": "temple_sanctuary",
+    "prompt": "Identify the concept or subject described here: A temple sanctuary marked sacred space associated with the deity and worship.",
+    "options": [
+      "Plato",
+      "Greek Temple",
+      "Arete",
+      "Socrates"
+    ],
+    "answer": 1,
+    "explanation": "A temple sanctuary marked sacred space associated with the deity and worship.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-02",
+      "GEN-043"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-045",
+    "unit": 2,
+    "topic": "Sparta",
+    "concept": "spartan_agoge",
+    "prompt": "Which choice best captures the historical significance of Sparta?",
+    "options": [
+      "Roman law school",
+      "Persian administration",
+      "state-directed military education",
+      "Athenian rhetoric"
+    ],
+    "answer": 2,
+    "explanation": "The agoge trained Spartan boys in discipline, endurance, obedience, and military service.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-046"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-046",
+    "unit": 2,
+    "topic": "Sparta",
+    "concept": "spartan_agoge",
+    "prompt": "Identify the concept or subject described here: The agoge trained Spartan boys in discipline, endurance, obedience, and military service.",
+    "options": [
+      "Arete",
+      "Socrates",
+      "Plato",
+      "Sparta"
+    ],
+    "answer": 3,
+    "explanation": "The agoge trained Spartan boys in discipline, endurance, obedience, and military service.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-045"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-047",
+    "unit": 2,
+    "topic": "Sparta",
+    "concept": "spartan_iron_currency",
+    "prompt": "Which choice best captures the historical significance of Sparta?",
+    "options": [
+      "discouraging luxury",
+      "encouraging luxury imports",
+      "funding a navy",
+      "promoting gold mining"
+    ],
+    "answer": 0,
+    "explanation": "Tradition associated Spartan iron currency with discouraging luxury, easy accumulation of wealth, and outside commerce.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-38",
+      "GEN-048"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-048",
+    "unit": 2,
+    "topic": "Sparta",
+    "concept": "spartan_iron_currency",
+    "prompt": "Identify the concept or subject described here: Tradition associated Spartan iron currency with discouraging luxury, easy accumulation of wealth, and outside commerce.",
+    "options": [
+      "Plato",
+      "Sparta",
+      "Arete",
+      "Socrates"
+    ],
+    "answer": 1,
+    "explanation": "Tradition associated Spartan iron currency with discouraging luxury, easy accumulation of wealth, and outside commerce.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-38",
+      "GEN-047"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-049",
+    "unit": 2,
+    "topic": "Athenian Education",
+    "concept": "athens_education",
+    "prompt": "Which choice best captures the historical significance of Athenian Education?",
+    "options": [
+      "complete exclusion of rhetoric",
+      "Roman military drill",
+      "preparation for civic participation",
+      "training only for mining"
+    ],
+    "answer": 2,
+    "explanation": "Athenian education for elite boys included literacy, music, physical training, rhetoric, and preparation for civic life.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-050"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-050",
+    "unit": 2,
+    "topic": "Athenian Education",
+    "concept": "athens_education",
+    "prompt": "Identify the concept or subject described here: Athenian education for elite boys included literacy, music, physical training, rhetoric, and preparation for civic life.",
+    "options": [
+      "Arete",
+      "Socrates",
+      "Plato",
+      "Athenian Education"
+    ],
+    "answer": 3,
+    "explanation": "Athenian education for elite boys included literacy, music, physical training, rhetoric, and preparation for civic life.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-049"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-051",
+    "unit": 3,
+    "topic": "Cyrus the Great",
+    "concept": "cyrus_achaemenid",
+    "prompt": "Which choice best captures the historical significance of Cyrus the Great?",
+    "options": [
+      "Roman republican reform",
+      "Spartan conquest of Athens",
+      "Macedonian decline",
+      "Persian unification and imperial expansion"
+    ],
+    "answer": 3,
+    "explanation": "Cyrus defeated Median power and built the foundation of the Achaemenid Persian Empire.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-03",
+      "GEN-052"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-052",
+    "unit": 3,
+    "topic": "Cyrus the Great",
+    "concept": "cyrus_achaemenid",
+    "prompt": "Identify the concept or subject described here: Cyrus defeated Median power and built the foundation of the Achaemenid Persian Empire.",
+    "options": [
+      "Cyrus the Great",
+      "Darius",
+      "Ionian Revolt",
+      "Battle of Marathon"
+    ],
+    "answer": 0,
+    "explanation": "Cyrus defeated Median power and built the foundation of the Achaemenid Persian Empire.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-03",
+      "GEN-051"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-053",
+    "unit": 3,
+    "topic": "Darius",
+    "concept": "darius_revolts",
+    "prompt": "Which choice best captures the historical significance of Darius?",
+    "options": [
+      "Spartan colonization",
+      "challenges of governing a large empire",
+      "Greek democracy in Persia",
+      "Roman naval supremacy"
+    ],
+    "answer": 1,
+    "explanation": "Darius governed a vast empire that required administration, taxation, roads, and control of repeated revolts.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-04",
+      "GEN-054"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-054",
+    "unit": 3,
+    "topic": "Darius",
+    "concept": "darius_revolts",
+    "prompt": "Identify the concept or subject described here: Darius governed a vast empire that required administration, taxation, roads, and control of repeated revolts.",
+    "options": [
+      "Ionian Revolt",
+      "Battle of Marathon",
+      "Darius",
+      "Cyrus the Great"
+    ],
+    "answer": 2,
+    "explanation": "Darius governed a vast empire that required administration, taxation, roads, and control of repeated revolts.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-04",
+      "GEN-053"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-055",
+    "unit": 3,
+    "topic": "Ionian Revolt",
+    "concept": "ionian_revolt",
+    "prompt": "Which choice best captures the historical significance of Ionian Revolt?",
+    "options": [
+      "the end of the Roman Republic",
+      "the founding of Carthage",
+      "the rise of Christianity",
+      "a cause of Greco-Persian conflict"
+    ],
+    "answer": 3,
+    "explanation": "The Ionian Revolt helped trigger the Greco-Persian Wars by bringing Greek cities in Asia Minor into rebellion against Persian rule.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-056"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-056",
+    "unit": 3,
+    "topic": "Ionian Revolt",
+    "concept": "ionian_revolt",
+    "prompt": "Identify the concept or subject described here: The Ionian Revolt helped trigger the Greco-Persian Wars by bringing Greek cities in Asia Minor into rebellion against Persian rule.",
+    "options": [
+      "Ionian Revolt",
+      "Cyrus the Great",
+      "Darius",
+      "Battle of Marathon"
+    ],
+    "answer": 0,
+    "explanation": "The Ionian Revolt helped trigger the Greco-Persian Wars by bringing Greek cities in Asia Minor into rebellion against Persian rule.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-055"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-057",
+    "unit": 3,
+    "topic": "Battle of Marathon",
+    "concept": "marathon",
+    "prompt": "Which choice best captures the historical significance of Battle of Marathon?",
+    "options": [
+      "Macedonian conquest of Persia",
+      "Greek victory over Persia",
+      "Spartan defeat by Thebes",
+      "Roman victory over Carthage"
+    ],
+    "answer": 1,
+    "explanation": "At Marathon in 490 BCE, Athenian-led forces defeated a Persian invasion, strengthening Athenian confidence.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-058"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-058",
+    "unit": 3,
+    "topic": "Battle of Marathon",
+    "concept": "marathon",
+    "prompt": "Identify the concept or subject described here: At Marathon in 490 BCE, Athenian-led forces defeated a Persian invasion, strengthening Athenian confidence.",
+    "options": [
+      "Darius",
+      "Ionian Revolt",
+      "Battle of Marathon",
+      "Cyrus the Great"
+    ],
+    "answer": 2,
+    "explanation": "At Marathon in 490 BCE, Athenian-led forces defeated a Persian invasion, strengthening Athenian confidence.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-057"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-059",
+    "unit": 3,
+    "topic": "Thermopylae",
+    "concept": "thermopylae",
+    "prompt": "Which choice best captures the historical significance of Thermopylae?",
+    "options": [
+      "Roman road engineering",
+      "Athenian democracy restoration",
+      "Persian naval victory at Zama",
+      "terrain and resistance"
+    ],
+    "answer": 3,
+    "explanation": "The stand at Thermopylae demonstrated how terrain and disciplined resistance could delay a much larger Persian force.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-060"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-060",
+    "unit": 3,
+    "topic": "Thermopylae",
+    "concept": "thermopylae",
+    "prompt": "Identify the concept or subject described here: The stand at Thermopylae demonstrated how terrain and disciplined resistance could delay a much larger Persian force.",
+    "options": [
+      "Thermopylae",
+      "Cyrus the Great",
+      "Darius",
+      "Ionian Revolt"
+    ],
+    "answer": 0,
+    "explanation": "The stand at Thermopylae demonstrated how terrain and disciplined resistance could delay a much larger Persian force.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-059"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-061",
+    "unit": 3,
+    "topic": "Battle of Salamis",
+    "concept": "salamis",
+    "prompt": "Which choice best captures the historical significance of Battle of Salamis?",
+    "options": [
+      "Carthaginian victory",
+      "decisive Greek naval success",
+      "Roman conquest of Greece",
+      "Spartan defeat at Leuctra"
+    ],
+    "answer": 1,
+    "explanation": "The Greek naval victory at Salamis in 480 BCE damaged Persian naval power and helped turn the invasion.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-062"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-062",
+    "unit": 3,
+    "topic": "Battle of Salamis",
+    "concept": "salamis",
+    "prompt": "Identify the concept or subject described here: The Greek naval victory at Salamis in 480 BCE damaged Persian naval power and helped turn the invasion.",
+    "options": [
+      "Darius",
+      "Ionian Revolt",
+      "Battle of Salamis",
+      "Cyrus the Great"
+    ],
+    "answer": 2,
+    "explanation": "The Greek naval victory at Salamis in 480 BCE damaged Persian naval power and helped turn the invasion.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-061"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-063",
+    "unit": 3,
+    "topic": "Delian League",
+    "concept": "delian_league",
+    "prompt": "Which choice best captures the historical significance of Delian League?",
+    "options": [
+      "Spartan religious league",
+      "Roman provincial system",
+      "Persian satrapy",
+      "alliance transformed into Athenian empire"
+    ],
+    "answer": 3,
+    "explanation": "The Delian League began as an alliance against Persia but increasingly became an instrument of Athenian power.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-064"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-064",
+    "unit": 3,
+    "topic": "Delian League",
+    "concept": "delian_league",
+    "prompt": "Identify the concept or subject described here: The Delian League began as an alliance against Persia but increasingly became an instrument of Athenian power.",
+    "options": [
+      "Delian League",
+      "Cyrus the Great",
+      "Darius",
+      "Ionian Revolt"
+    ],
+    "answer": 0,
+    "explanation": "The Delian League began as an alliance against Persia but increasingly became an instrument of Athenian power.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-063"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-065",
+    "unit": 3,
+    "topic": "Athenian Golden Age",
+    "concept": "delian_league_golden_age",
+    "prompt": "Which choice best captures the historical significance of Athenian Golden Age?",
+    "options": [
+      "Roman taxes",
+      "resources supporting Athenian power and art",
+      "Spartan subsidies",
+      "Persian occupation"
+    ],
+    "answer": 1,
+    "explanation": "Tribute and resources connected to the Delian League supported Athenian military power and monumental building.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-29",
+      "GEN-066"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-066",
+    "unit": 3,
+    "topic": "Athenian Golden Age",
+    "concept": "delian_league_golden_age",
+    "prompt": "Identify the concept or subject described here: Tribute and resources connected to the Delian League supported Athenian military power and monumental building.",
+    "options": [
+      "Darius",
+      "Ionian Revolt",
+      "Athenian Golden Age",
+      "Cyrus the Great"
+    ],
+    "answer": 2,
+    "explanation": "Tribute and resources connected to the Delian League supported Athenian military power and monumental building.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-29",
+      "GEN-065"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-067",
+    "unit": 3,
+    "topic": "Peloponnesian War",
+    "concept": "peloponnesian_war",
+    "prompt": "Which choice best captures the historical significance of Peloponnesian War?",
+    "options": [
+      "Persian conquest of Rome",
+      "Roman civil war",
+      "Macedonian war against Carthage",
+      "inter-Greek war that weakened major poleis"
+    ],
+    "answer": 3,
+    "explanation": "The Peloponnesian War pitted Athens and its allies against Sparta and its allies and weakened the Greek world.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-068"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-068",
+    "unit": 3,
+    "topic": "Peloponnesian War",
+    "concept": "peloponnesian_war",
+    "prompt": "Identify the concept or subject described here: The Peloponnesian War pitted Athens and its allies against Sparta and its allies and weakened the Greek world.",
+    "options": [
+      "Peloponnesian War",
+      "Cyrus the Great",
+      "Darius",
+      "Ionian Revolt"
+    ],
+    "answer": 0,
+    "explanation": "The Peloponnesian War pitted Athens and its allies against Sparta and its allies and weakened the Greek world.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-067"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-069",
+    "unit": 3,
+    "topic": "Sicilian Expedition",
+    "concept": "sicilian_expedition",
+    "prompt": "Which choice best captures the historical significance of Sicilian Expedition?",
+    "options": [
+      "Persian collapse",
+      "overextension and military disaster",
+      "creation of democracy",
+      "Spartan surrender"
+    ],
+    "answer": 1,
+    "explanation": "Athens’ Sicilian Expedition ended disastrously and destroyed major forces, weakening Athens during the Peloponnesian War.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-070"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-070",
+    "unit": 3,
+    "topic": "Sicilian Expedition",
+    "concept": "sicilian_expedition",
+    "prompt": "Identify the concept or subject described here: Athens’ Sicilian Expedition ended disastrously and destroyed major forces, weakening Athens during the Peloponnesian War.",
+    "options": [
+      "Darius",
+      "Ionian Revolt",
+      "Sicilian Expedition",
+      "Cyrus the Great"
+    ],
+    "answer": 2,
+    "explanation": "Athens’ Sicilian Expedition ended disastrously and destroyed major forces, weakening Athens during the Peloponnesian War.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-069"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-071",
+    "unit": 3,
+    "topic": "Thrasybulus",
+    "concept": "thrasybulus_democracy",
+    "prompt": "Which choice best captures the historical significance of Thrasybulus?",
+    "options": [
+      "founding of Macedon",
+      "Roman dictatorship",
+      "Persian kingship",
+      "restoration of democracy"
+    ],
+    "answer": 3,
+    "explanation": "Thrasybulus helped overthrow the Thirty Tyrants and restore Athenian democracy after the Peloponnesian War.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-06",
+      "GEN-072"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-072",
+    "unit": 3,
+    "topic": "Thrasybulus",
+    "concept": "thrasybulus_democracy",
+    "prompt": "Identify the concept or subject described here: Thrasybulus helped overthrow the Thirty Tyrants and restore Athenian democracy after the Peloponnesian War.",
+    "options": [
+      "Thrasybulus",
+      "Cyrus the Great",
+      "Darius",
+      "Ionian Revolt"
+    ],
+    "answer": 0,
+    "explanation": "Thrasybulus helped overthrow the Thirty Tyrants and restore Athenian democracy after the Peloponnesian War.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-06",
+      "GEN-071"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-073",
+    "unit": 3,
+    "topic": "Corinthian War",
+    "concept": "persia_corinthian_war",
+    "prompt": "Which choice best captures the historical significance of Corinthian War?",
+    "options": [
+      "Egyptian colonization",
+      "foreign influence on Greek politics",
+      "complete Greek unity",
+      "Roman domination"
+    ],
+    "answer": 1,
+    "explanation": "Persian intervention in the Corinthian War illustrates how outside funding and diplomacy could shape conflicts among Greek states.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-09",
+      "GEN-074"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-074",
+    "unit": 3,
+    "topic": "Corinthian War",
+    "concept": "persia_corinthian_war",
+    "prompt": "Identify the concept or subject described here: Persian intervention in the Corinthian War illustrates how outside funding and diplomacy could shape conflicts among Greek states.",
+    "options": [
+      "Darius",
+      "Ionian Revolt",
+      "Corinthian War",
+      "Cyrus the Great"
+    ],
+    "answer": 2,
+    "explanation": "Persian intervention in the Corinthian War illustrates how outside funding and diplomacy could shape conflicts among Greek states.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-09",
+      "GEN-073"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-075",
+    "unit": 3,
+    "topic": "Leuctra",
+    "concept": "leuctra_thebes",
+    "prompt": "Which choice best captures the historical significance of Leuctra?",
+    "options": [
+      "beginning of the Delian League",
+      "Roman conquest of Carthage",
+      "Persian victory at Marathon",
+      "end of Spartan dominance"
+    ],
+    "answer": 3,
+    "explanation": "Theban victory at Leuctra in 371 BCE broke Spartan military supremacy.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-40",
+      "GEN-076"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-076",
+    "unit": 3,
+    "topic": "Leuctra",
+    "concept": "leuctra_thebes",
+    "prompt": "Identify the concept or subject described here: Theban victory at Leuctra in 371 BCE broke Spartan military supremacy.",
+    "options": [
+      "Leuctra",
+      "Cyrus the Great",
+      "Darius",
+      "Ionian Revolt"
+    ],
+    "answer": 0,
+    "explanation": "Theban victory at Leuctra in 371 BCE broke Spartan military supremacy.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-40",
+      "GEN-075"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-077",
+    "unit": 3,
+    "topic": "Philip II",
+    "concept": "philip_macedon",
+    "prompt": "Which choice best captures the historical significance of Philip II?",
+    "options": [
+      "Spartan colonization",
+      "Macedonian rise over Greece",
+      "Roman republican reform",
+      "Persian restoration"
+    ],
+    "answer": 1,
+    "explanation": "Philip II strengthened Macedonia and defeated a coalition of Greek states, preparing the way for Alexander.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-078"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-078",
+    "unit": 3,
+    "topic": "Philip II",
+    "concept": "philip_macedon",
+    "prompt": "Identify the concept or subject described here: Philip II strengthened Macedonia and defeated a coalition of Greek states, preparing the way for Alexander.",
+    "options": [
+      "Darius",
+      "Ionian Revolt",
+      "Philip II",
+      "Cyrus the Great"
+    ],
+    "answer": 2,
+    "explanation": "Philip II strengthened Macedonia and defeated a coalition of Greek states, preparing the way for Alexander.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-077"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-079",
+    "unit": 3,
+    "topic": "Alexander the Great",
+    "concept": "alexander_hellenism",
+    "prompt": "Which choice best captures the historical significance of Alexander the Great?",
+    "options": [
+      "Romanization of Britain",
+      "Spartan isolation",
+      "Persian withdrawal from Asia",
+      "Hellenistic cultural diffusion"
+    ],
+    "answer": 3,
+    "explanation": "Alexander’s conquests spread Greek language and culture while also encouraging cultural blending across a vast empire.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-080"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-080",
+    "unit": 3,
+    "topic": "Alexander the Great",
+    "concept": "alexander_hellenism",
+    "prompt": "Identify the concept or subject described here: Alexander’s conquests spread Greek language and culture while also encouraging cultural blending across a vast empire.",
+    "options": [
+      "Alexander the Great",
+      "Cyrus the Great",
+      "Darius",
+      "Ionian Revolt"
+    ],
+    "answer": 0,
+    "explanation": "Alexander’s conquests spread Greek language and culture while also encouraging cultural blending across a vast empire.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-079"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-081",
+    "unit": 3,
+    "topic": "Hellenistic Art",
+    "concept": "hellenistic_art",
+    "prompt": "Which choice best captures the historical significance of Hellenistic Art?",
+    "options": [
+      "rejection of human figures",
+      "emotion and dramatic realism",
+      "strict return to Archaic forms",
+      "only military maps"
+    ],
+    "answer": 1,
+    "explanation": "Hellenistic art often emphasized movement, emotion, drama, age, and diverse subjects more strongly than earlier Classical idealism.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-19",
+      "GEN-082"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-082",
+    "unit": 3,
+    "topic": "Hellenistic Art",
+    "concept": "hellenistic_art",
+    "prompt": "Identify the concept or subject described here: Hellenistic art often emphasized movement, emotion, drama, age, and diverse subjects more strongly than earlier Classical idealism.",
+    "options": [
+      "Darius",
+      "Ionian Revolt",
+      "Hellenistic Art",
+      "Cyrus the Great"
+    ],
+    "answer": 2,
+    "explanation": "Hellenistic art often emphasized movement, emotion, drama, age, and diverse subjects more strongly than earlier Classical idealism.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-19",
+      "GEN-081"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-083",
+    "unit": 3,
+    "topic": "Long Walls",
+    "concept": "long_walls_piraeus",
+    "prompt": "Which choice best captures the historical significance of Long Walls?",
+    "options": [
+      "Spartan land isolation",
+      "Persian religious control",
+      "Roman road building",
+      "naval security and trade access"
+    ],
+    "answer": 3,
+    "explanation": "Athens’ Long Walls connected the city to Piraeus, preserving access to naval power, trade, and imported food.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-39",
+      "GEN-084"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-084",
+    "unit": 3,
+    "topic": "Long Walls",
+    "concept": "long_walls_piraeus",
+    "prompt": "Identify the concept or subject described here: Athens’ Long Walls connected the city to Piraeus, preserving access to naval power, trade, and imported food.",
+    "options": [
+      "Long Walls",
+      "Cyrus the Great",
+      "Darius",
+      "Ionian Revolt"
+    ],
+    "answer": 0,
+    "explanation": "Athens’ Long Walls connected the city to Piraeus, preserving access to naval power, trade, and imported food.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-39",
+      "GEN-083"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-085",
+    "unit": 4,
+    "topic": "Early Rome",
+    "concept": "rome_founding",
+    "prompt": "Which choice best captures the historical significance of Early Rome?",
+    "options": [
+      "traditional foundation of Rome",
+      "founding of Athens",
+      "fall of Carthage",
+      "rise of Macedon"
+    ],
+    "answer": 0,
+    "explanation": "Roman tradition dated the founding of Rome to 753 BCE and told stories of Romulus and Remus.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-086"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-086",
+    "unit": 4,
+    "topic": "Early Rome",
+    "concept": "rome_founding",
+    "prompt": "Identify the concept or subject described here: Roman tradition dated the founding of Rome to 753 BCE and told stories of Romulus and Remus.",
+    "options": [
+      "Roman Consuls",
+      "Early Rome",
+      "Etruscan Influence",
+      "Tullus Hostilius"
+    ],
+    "answer": 1,
+    "explanation": "Roman tradition dated the founding of Rome to 753 BCE and told stories of Romulus and Remus.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-085"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-087",
+    "unit": 4,
+    "topic": "Etruscan Influence",
+    "concept": "etruscan_influence",
+    "prompt": "Which choice best captures the historical significance of Etruscan Influence?",
+    "options": [
+      "Persian colonization",
+      "Athenian rule",
+      "cultural borrowing from neighbors",
+      "complete isolation"
+    ],
+    "answer": 2,
+    "explanation": "Early Rome borrowed religious symbols, engineering practices, political customs, and urban traditions from Etruscan neighbors.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-36",
+      "GEN-088"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-088",
+    "unit": 4,
+    "topic": "Etruscan Influence",
+    "concept": "etruscan_influence",
+    "prompt": "Identify the concept or subject described here: Early Rome borrowed religious symbols, engineering practices, political customs, and urban traditions from Etruscan neighbors.",
+    "options": [
+      "Early Rome",
+      "Tullus Hostilius",
+      "Roman Consuls",
+      "Etruscan Influence"
+    ],
+    "answer": 3,
+    "explanation": "Early Rome borrowed religious symbols, engineering practices, political customs, and urban traditions from Etruscan neighbors.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-36",
+      "GEN-087"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-089",
+    "unit": 4,
+    "topic": "Tullus Hostilius",
+    "concept": "tullus_expansion",
+    "prompt": "Which choice best captures the historical significance of Tullus Hostilius?",
+    "options": [
+      "early regional expansion",
+      "religious pacifism",
+      "naval isolation",
+      "Greek colonization of Rome"
+    ],
+    "answer": 0,
+    "explanation": "The traditional destruction of Alba Longa under Tullus Hostilius symbolizes Rome’s early aggressive regional expansion.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-14",
+      "GEN-090"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-090",
+    "unit": 4,
+    "topic": "Tullus Hostilius",
+    "concept": "tullus_expansion",
+    "prompt": "Identify the concept or subject described here: The traditional destruction of Alba Longa under Tullus Hostilius symbolizes Rome’s early aggressive regional expansion.",
+    "options": [
+      "Roman Consuls",
+      "Tullus Hostilius",
+      "Early Rome",
+      "Etruscan Influence"
+    ],
+    "answer": 1,
+    "explanation": "The traditional destruction of Alba Longa under Tullus Hostilius symbolizes Rome’s early aggressive regional expansion.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-14",
+      "GEN-089"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-091",
+    "unit": 4,
+    "topic": "Roman Consuls",
+    "concept": "republic_consuls",
+    "prompt": "Which choice best captures the historical significance of Roman Consuls?",
+    "options": [
+      "rule by one priest",
+      "military rule without elections",
+      "shared executive power",
+      "permanent hereditary kingship"
+    ],
+    "answer": 2,
+    "explanation": "The Republic used two annually elected consuls to divide executive authority and reduce the danger of monarchy.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-092"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-092",
+    "unit": 4,
+    "topic": "Roman Consuls",
+    "concept": "republic_consuls",
+    "prompt": "Identify the concept or subject described here: The Republic used two annually elected consuls to divide executive authority and reduce the danger of monarchy.",
+    "options": [
+      "Early Rome",
+      "Etruscan Influence",
+      "Tullus Hostilius",
+      "Roman Consuls"
+    ],
+    "answer": 3,
+    "explanation": "The Republic used two annually elected consuls to divide executive authority and reduce the danger of monarchy.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-091"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-093",
+    "unit": 4,
+    "topic": "Roman Senate",
+    "concept": "roman_senate",
+    "prompt": "Which choice best captures the historical significance of Roman Senate?",
+    "options": [
+      "elite political influence",
+      "direct democracy for all residents",
+      "female voting assembly",
+      "Persian provincial rule"
+    ],
+    "answer": 0,
+    "explanation": "The Senate became a powerful council dominated by elite families and influenced finance, diplomacy, and policy.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-094"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-094",
+    "unit": 4,
+    "topic": "Roman Senate",
+    "concept": "roman_senate",
+    "prompt": "Identify the concept or subject described here: The Senate became a powerful council dominated by elite families and influenced finance, diplomacy, and policy.",
+    "options": [
+      "Tullus Hostilius",
+      "Roman Senate",
+      "Early Rome",
+      "Etruscan Influence"
+    ],
+    "answer": 1,
+    "explanation": "The Senate became a powerful council dominated by elite families and influenced finance, diplomacy, and policy.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-093"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-095",
+    "unit": 4,
+    "topic": "Patricians",
+    "concept": "patricians_patres",
+    "prompt": "Which choice best captures the historical significance of Patricians?",
+    "options": [
+      "foreign kingship",
+      "slave government",
+      "aristocratic family power",
+      "merchant democracy"
+    ],
+    "answer": 2,
+    "explanation": "Patricians were associated with Rome’s old aristocratic families and early political privilege.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-13",
+      "GEN-096"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-096",
+    "unit": 4,
+    "topic": "Patricians",
+    "concept": "patricians_patres",
+    "prompt": "Identify the concept or subject described here: Patricians were associated with Rome’s old aristocratic families and early political privilege.",
+    "options": [
+      "Early Rome",
+      "Etruscan Influence",
+      "Tullus Hostilius",
+      "Patricians"
+    ],
+    "answer": 3,
+    "explanation": "Patricians were associated with Rome’s old aristocratic families and early political privilege.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-13",
+      "GEN-095"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-097",
+    "unit": 4,
+    "topic": "Plebeians",
+    "concept": "plebeians_orders",
+    "prompt": "Which choice best captures the historical significance of Plebeians?",
+    "options": [
+      "social conflict leading to political concessions",
+      "Persian conquest",
+      "Greek colonization",
+      "imperial Christianity"
+    ],
+    "answer": 0,
+    "explanation": "The Struggle of the Orders describes plebeian efforts to gain political protections and greater access to office and law.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-098"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-098",
+    "unit": 4,
+    "topic": "Plebeians",
+    "concept": "plebeians_orders",
+    "prompt": "Identify the concept or subject described here: The Struggle of the Orders describes plebeian efforts to gain political protections and greater access to office and law.",
+    "options": [
+      "Tullus Hostilius",
+      "Plebeians",
+      "Early Rome",
+      "Etruscan Influence"
+    ],
+    "answer": 1,
+    "explanation": "The Struggle of the Orders describes plebeian efforts to gain political protections and greater access to office and law.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-097"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-099",
+    "unit": 4,
+    "topic": "Tribunes",
+    "concept": "tribunes_veto",
+    "prompt": "Which choice best captures the historical significance of Tribunes?",
+    "options": [
+      "Greek naval command",
+      "priestly monarchy",
+      "plebeian political protection",
+      "imperial succession"
+    ],
+    "answer": 2,
+    "explanation": "Tribunes of the plebs could protect plebeians and use the veto against actions harmful to them.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-100"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-100",
+    "unit": 4,
+    "topic": "Tribunes",
+    "concept": "tribunes_veto",
+    "prompt": "Identify the concept or subject described here: Tribunes of the plebs could protect plebeians and use the veto against actions harmful to them.",
+    "options": [
+      "Early Rome",
+      "Etruscan Influence",
+      "Tullus Hostilius",
+      "Tribunes"
+    ],
+    "answer": 3,
+    "explanation": "Tribunes of the plebs could protect plebeians and use the veto against actions harmful to them.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-099"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-101",
+    "unit": 4,
+    "topic": "Twelve Tables",
+    "concept": "twelve_tables",
+    "prompt": "Which choice best captures the historical significance of Twelve Tables?",
+    "options": [
+      "public written law",
+      "oral law known only to priests",
+      "abolition of property",
+      "Greek constitution"
+    ],
+    "answer": 0,
+    "explanation": "The Twelve Tables made key legal rules public and became an important symbol of written Roman law.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-102"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-102",
+    "unit": 4,
+    "topic": "Twelve Tables",
+    "concept": "twelve_tables",
+    "prompt": "Identify the concept or subject described here: The Twelve Tables made key legal rules public and became an important symbol of written Roman law.",
+    "options": [
+      "Tullus Hostilius",
+      "Twelve Tables",
+      "Early Rome",
+      "Etruscan Influence"
+    ],
+    "answer": 1,
+    "explanation": "The Twelve Tables made key legal rules public and became an important symbol of written Roman law.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-101"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-103",
+    "unit": 4,
+    "topic": "Cincinnatus",
+    "concept": "cincinnatus_virtue",
+    "prompt": "Which choice best captures the historical significance of Cincinnatus?",
+    "options": [
+      "royal succession",
+      "commercial wealth",
+      "temporary power and civic duty",
+      "permanent dictatorship"
+    ],
+    "answer": 2,
+    "explanation": "Cincinnatus became a Roman model of civic virtue because tradition said he surrendered emergency power and returned to private life.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-104"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-104",
+    "unit": 4,
+    "topic": "Cincinnatus",
+    "concept": "cincinnatus_virtue",
+    "prompt": "Identify the concept or subject described here: Cincinnatus became a Roman model of civic virtue because tradition said he surrendered emergency power and returned to private life.",
+    "options": [
+      "Early Rome",
+      "Etruscan Influence",
+      "Tullus Hostilius",
+      "Cincinnatus"
+    ],
+    "answer": 3,
+    "explanation": "Cincinnatus became a Roman model of civic virtue because tradition said he surrendered emergency power and returned to private life.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-103"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-105",
+    "unit": 4,
+    "topic": "Salt and Early Rome",
+    "concept": "rome_salt",
+    "prompt": "Which choice best captures the historical significance of Salt and Early Rome?",
+    "options": [
+      "trade and preservation value of salt",
+      "gold coin production only",
+      "religious use only",
+      "naval weapons"
+    ],
+    "answer": 0,
+    "explanation": "Access to salt and trade routes helped make Rome’s location economically valuable.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-32",
+      "GEN-106"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-106",
+    "unit": 4,
+    "topic": "Salt and Early Rome",
+    "concept": "rome_salt",
+    "prompt": "Identify the concept or subject described here: Access to salt and trade routes helped make Rome’s location economically valuable.",
+    "options": [
+      "Tullus Hostilius",
+      "Salt and Early Rome",
+      "Early Rome",
+      "Etruscan Influence"
+    ],
+    "answer": 1,
+    "explanation": "Access to salt and trade routes helped make Rome’s location economically valuable.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-32",
+      "GEN-105"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-107",
+    "unit": 4,
+    "topic": "Roman Roads",
+    "concept": "roman_roads_early",
+    "prompt": "Which choice best captures the historical significance of Roman Roads?",
+    "options": [
+      "elimination of sea travel",
+      "prevention of all invasion",
+      "integration and mobility",
+      "isolation of provinces"
+    ],
+    "answer": 2,
+    "explanation": "Road building linked communities, supported trade, administration, and military movement as Roman power expanded.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-108"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-108",
+    "unit": 4,
+    "topic": "Roman Roads",
+    "concept": "roman_roads_early",
+    "prompt": "Identify the concept or subject described here: Road building linked communities, supported trade, administration, and military movement as Roman power expanded.",
+    "options": [
+      "Early Rome",
+      "Etruscan Influence",
+      "Tullus Hostilius",
+      "Roman Roads"
+    ],
+    "answer": 3,
+    "explanation": "Road building linked communities, supported trade, administration, and military movement as Roman power expanded.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-107"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-109",
+    "unit": 5,
+    "topic": "Punic Wars",
+    "concept": "punic_wars",
+    "prompt": "Which choice best captures the historical significance of Punic Wars?",
+    "options": [
+      "Athens-Sparta struggle",
+      "Persia-Macedon alliance",
+      "Rome-Gaul only",
+      "Rome-Carthage struggle"
+    ],
+    "answer": 3,
+    "explanation": "The Punic Wars were a series of conflicts between Rome and Carthage that transformed Rome into the dominant western Mediterranean power.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-110"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-110",
+    "unit": 5,
+    "topic": "Punic Wars",
+    "concept": "punic_wars",
+    "prompt": "Identify the concept or subject described here: The Punic Wars were a series of conflicts between Rome and Carthage that transformed Rome into the dominant western Mediterranean power.",
+    "options": [
+      "Punic Wars",
+      "Hannibal",
+      "Cannae",
+      "Scipio Africanus"
+    ],
+    "answer": 0,
+    "explanation": "The Punic Wars were a series of conflicts between Rome and Carthage that transformed Rome into the dominant western Mediterranean power.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-109"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-111",
+    "unit": 5,
+    "topic": "Hannibal",
+    "concept": "hannibal_strategy",
+    "prompt": "Which choice best captures the historical significance of Hannibal?",
+    "options": [
+      "Greek colonization",
+      "bold overland invasion",
+      "Roman naval blockade",
+      "Persian cavalry reform"
+    ],
+    "answer": 1,
+    "explanation": "Hannibal’s invasion of Italy across the Alps was an innovative attempt to defeat Rome on its own territory.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-08",
+      "GEN-112"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-112",
+    "unit": 5,
+    "topic": "Hannibal",
+    "concept": "hannibal_strategy",
+    "prompt": "Identify the concept or subject described here: Hannibal’s invasion of Italy across the Alps was an innovative attempt to defeat Rome on its own territory.",
+    "options": [
+      "Cannae",
+      "Scipio Africanus",
+      "Hannibal",
+      "Punic Wars"
+    ],
+    "answer": 2,
+    "explanation": "Hannibal’s invasion of Italy across the Alps was an innovative attempt to defeat Rome on its own territory.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-08",
+      "GEN-111"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-113",
+    "unit": 5,
+    "topic": "Cannae",
+    "concept": "cannae",
+    "prompt": "Which choice best captures the historical significance of Cannae?",
+    "options": [
+      "Roman naval victory",
+      "Spartan phalanx defeat",
+      "Persian siege",
+      "double-envelopment victory"
+    ],
+    "answer": 3,
+    "explanation": "At Cannae, Hannibal used encirclement to destroy a much larger Roman army, demonstrating tactical flexibility.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-114"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-114",
+    "unit": 5,
+    "topic": "Cannae",
+    "concept": "cannae",
+    "prompt": "Identify the concept or subject described here: At Cannae, Hannibal used encirclement to destroy a much larger Roman army, demonstrating tactical flexibility.",
+    "options": [
+      "Cannae",
+      "Punic Wars",
+      "Hannibal",
+      "Scipio Africanus"
+    ],
+    "answer": 0,
+    "explanation": "At Cannae, Hannibal used encirclement to destroy a much larger Roman army, demonstrating tactical flexibility.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-113"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-115",
+    "unit": 5,
+    "topic": "Scipio Africanus",
+    "concept": "scipio_adaptation",
+    "prompt": "Which choice best captures the historical significance of Scipio Africanus?",
+    "options": [
+      "Persian alliance",
+      "adaptation and strategic counterattack",
+      "withdrawal from war",
+      "dependence on Greek fleets only"
+    ],
+    "answer": 1,
+    "explanation": "Scipio shifted the war to North Africa and adapted tactics that helped defeat Hannibal at Zama.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-33",
+      "GEN-116"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-116",
+    "unit": 5,
+    "topic": "Scipio Africanus",
+    "concept": "scipio_adaptation",
+    "prompt": "Identify the concept or subject described here: Scipio shifted the war to North Africa and adapted tactics that helped defeat Hannibal at Zama.",
+    "options": [
+      "Hannibal",
+      "Cannae",
+      "Scipio Africanus",
+      "Punic Wars"
+    ],
+    "answer": 2,
+    "explanation": "Scipio shifted the war to North Africa and adapted tactics that helped defeat Hannibal at Zama.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-33",
+      "GEN-115"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-117",
+    "unit": 5,
+    "topic": "Battle of Zama",
+    "concept": "zama",
+    "prompt": "Which choice best captures the historical significance of Battle of Zama?",
+    "options": [
+      "Athenian victory over Sparta",
+      "Persian conquest of Greece",
+      "Theban defeat of Rome",
+      "Roman victory ending Second Punic War"
+    ],
+    "answer": 3,
+    "explanation": "The Roman victory at Zama in 202 BCE ended the Second Punic War and broke Carthaginian military power.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-118"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-118",
+    "unit": 5,
+    "topic": "Battle of Zama",
+    "concept": "zama",
+    "prompt": "Identify the concept or subject described here: The Roman victory at Zama in 202 BCE ended the Second Punic War and broke Carthaginian military power.",
+    "options": [
+      "Battle of Zama",
+      "Punic Wars",
+      "Hannibal",
+      "Cannae"
+    ],
+    "answer": 0,
+    "explanation": "The Roman victory at Zama in 202 BCE ended the Second Punic War and broke Carthaginian military power.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-117"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-119",
+    "unit": 5,
+    "topic": "Roman Conquest of Greece",
+    "concept": "rome_greece",
+    "prompt": "Which choice best captures the historical significance of Roman Conquest of Greece?",
+    "options": [
+      "Spartan empire over Rome",
+      "Roman domination of Greece",
+      "Greek conquest of Italy",
+      "Persian restoration of Athens"
+    ],
+    "answer": 1,
+    "explanation": "Rome increasingly intervened in Greek conflicts and eventually destroyed Corinth in 146 BCE, consolidating control.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-120"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-120",
+    "unit": 5,
+    "topic": "Roman Conquest of Greece",
+    "concept": "rome_greece",
+    "prompt": "Identify the concept or subject described here: Rome increasingly intervened in Greek conflicts and eventually destroyed Corinth in 146 BCE, consolidating control.",
+    "options": [
+      "Hannibal",
+      "Cannae",
+      "Roman Conquest of Greece",
+      "Punic Wars"
+    ],
+    "answer": 2,
+    "explanation": "Rome increasingly intervened in Greek conflicts and eventually destroyed Corinth in 146 BCE, consolidating control.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-119"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-121",
+    "unit": 5,
+    "topic": "Caesar and Pompeia",
+    "concept": "caesar_pompeia",
+    "prompt": "Which choice best captures the historical significance of Caesar and Pompeia?",
+    "options": [
+      "religious conversion",
+      "military mutiny",
+      "foreign marriage",
+      "elite reputation and political image"
+    ],
+    "answer": 3,
+    "explanation": "The Bona Dea scandal produced Caesar’s famous claim that his wife had to be above suspicion, illustrating elite reputation politics.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-07",
+      "GEN-122"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-122",
+    "unit": 5,
+    "topic": "Caesar and Pompeia",
+    "concept": "caesar_pompeia",
+    "prompt": "Identify the concept or subject described here: The Bona Dea scandal produced Caesar’s famous claim that his wife had to be above suspicion, illustrating elite reputation politics.",
+    "options": [
+      "Caesar and Pompeia",
+      "Punic Wars",
+      "Hannibal",
+      "Cannae"
+    ],
+    "answer": 0,
+    "explanation": "The Bona Dea scandal produced Caesar’s famous claim that his wife had to be above suspicion, illustrating elite reputation politics.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-07",
+      "GEN-121"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-123",
+    "unit": 5,
+    "topic": "Caesar and the Rubicon",
+    "concept": "caesar_rubicon",
+    "prompt": "Which choice best captures the historical significance of Caesar and the Rubicon?",
+    "options": [
+      "Persian invasion",
+      "collapse of Republican restraint",
+      "restoration of monarchy in Greece",
+      "end of the Punic Wars"
+    ],
+    "answer": 1,
+    "explanation": "Caesar’s crossing of the Rubicon in 49 BCE symbolized the breakdown of Republican norms and the start of civil war.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-124"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-124",
+    "unit": 5,
+    "topic": "Caesar and the Rubicon",
+    "concept": "caesar_rubicon",
+    "prompt": "Identify the concept or subject described here: Caesar’s crossing of the Rubicon in 49 BCE symbolized the breakdown of Republican norms and the start of civil war.",
+    "options": [
+      "Hannibal",
+      "Cannae",
+      "Caesar and the Rubicon",
+      "Punic Wars"
+    ],
+    "answer": 2,
+    "explanation": "Caesar’s crossing of the Rubicon in 49 BCE symbolized the breakdown of Republican norms and the start of civil war.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-123"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-125",
+    "unit": 5,
+    "topic": "Republic to Empire",
+    "concept": "republic_empire_shift",
+    "prompt": "Which choice best captures the historical significance of Republic to Empire?",
+    "options": [
+      "expansion of direct democracy",
+      "foreign liberation",
+      "end of the army",
+      "concentration of political power"
+    ],
+    "answer": 3,
+    "explanation": "The late Republic’s civil wars and concentration of military loyalty contributed to a shift from shared republican rule toward one-man imperial power.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-23",
+      "GEN-126"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-126",
+    "unit": 5,
+    "topic": "Republic to Empire",
+    "concept": "republic_empire_shift",
+    "prompt": "Identify the concept or subject described here: The late Republic’s civil wars and concentration of military loyalty contributed to a shift from shared republican rule toward one-man imperial power.",
+    "options": [
+      "Republic to Empire",
+      "Punic Wars",
+      "Hannibal",
+      "Cannae"
+    ],
+    "answer": 0,
+    "explanation": "The late Republic’s civil wars and concentration of military loyalty contributed to a shift from shared republican rule toward one-man imperial power.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-23",
+      "GEN-125"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-127",
+    "unit": 5,
+    "topic": "Augustus",
+    "concept": "augustus_principate",
+    "prompt": "Which choice best captures the historical significance of Augustus?",
+    "options": [
+      "abolition of Senate",
+      "monarchical power under republican forms",
+      "restoration of Athenian democracy",
+      "rule by two equal consuls only"
+    ],
+    "answer": 1,
+    "explanation": "Augustus maintained republican titles and institutions while concentrating real authority in the principate.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-128"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-128",
+    "unit": 5,
+    "topic": "Augustus",
+    "concept": "augustus_principate",
+    "prompt": "Identify the concept or subject described here: Augustus maintained republican titles and institutions while concentrating real authority in the principate.",
+    "options": [
+      "Hannibal",
+      "Cannae",
+      "Augustus",
+      "Punic Wars"
+    ],
+    "answer": 2,
+    "explanation": "Augustus maintained republican titles and institutions while concentrating real authority in the principate.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-127"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-129",
+    "unit": 5,
+    "topic": "Roman Roads",
+    "concept": "roman_roads_military",
+    "prompt": "Which choice best captures the historical significance of Roman Roads?",
+    "options": [
+      "replacement of all sea travel",
+      "local royal independence",
+      "elimination of taxation",
+      "military and administrative mobility"
+    ],
+    "answer": 3,
+    "explanation": "Roads enabled rapid troop deployment, administration, communication, and movement of goods across Roman territory.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-16",
+      "GEN-130"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-130",
+    "unit": 5,
+    "topic": "Roman Roads",
+    "concept": "roman_roads_military",
+    "prompt": "Identify the concept or subject described here: Roads enabled rapid troop deployment, administration, communication, and movement of goods across Roman territory.",
+    "options": [
+      "Roman Roads",
+      "Punic Wars",
+      "Hannibal",
+      "Cannae"
+    ],
+    "answer": 0,
+    "explanation": "Roads enabled rapid troop deployment, administration, communication, and movement of goods across Roman territory.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-16",
+      "GEN-129"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-131",
+    "unit": 5,
+    "topic": "Roman Provinces",
+    "concept": "roman_provinces",
+    "prompt": "Which choice best captures the historical significance of Roman Provinces?",
+    "options": [
+      "tribal monarchy",
+      "administration of conquered territory",
+      "independent city-states only",
+      "direct Athenian democracy"
+    ],
+    "answer": 1,
+    "explanation": "Provincial government allowed Rome to administer conquered territories through governors, taxation, law, and military presence.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-132"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-132",
+    "unit": 5,
+    "topic": "Roman Provinces",
+    "concept": "roman_provinces",
+    "prompt": "Identify the concept or subject described here: Provincial government allowed Rome to administer conquered territories through governors, taxation, law, and military presence.",
+    "options": [
+      "Hannibal",
+      "Cannae",
+      "Roman Provinces",
+      "Punic Wars"
+    ],
+    "answer": 2,
+    "explanation": "Provincial government allowed Rome to administer conquered territories through governors, taxation, law, and military presence.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-131"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-133",
+    "unit": 5,
+    "topic": "Pax Romana",
+    "concept": "pax_romana",
+    "prompt": "Which choice best captures the historical significance of Pax Romana?",
+    "options": [
+      "complete absence of war everywhere",
+      "Greek independence",
+      "end of Roman law",
+      "relative stability and integration"
+    ],
+    "answer": 3,
+    "explanation": "The Pax Romana describes a long period of relative imperial stability that encouraged trade, travel, urban growth, and cultural exchange.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-134"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-134",
+    "unit": 5,
+    "topic": "Pax Romana",
+    "concept": "pax_romana",
+    "prompt": "Identify the concept or subject described here: The Pax Romana describes a long period of relative imperial stability that encouraged trade, travel, urban growth, and cultural exchange.",
+    "options": [
+      "Pax Romana",
+      "Punic Wars",
+      "Hannibal",
+      "Cannae"
+    ],
+    "answer": 0,
+    "explanation": "The Pax Romana describes a long period of relative imperial stability that encouraged trade, travel, urban growth, and cultural exchange.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-133"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-135",
+    "unit": 6,
+    "topic": "Paterfamilias",
+    "concept": "paterfamilias",
+    "prompt": "Which choice best captures the historical significance of Paterfamilias?",
+    "options": [
+      "patriarchal household authority",
+      "female electoral rule",
+      "military democracy",
+      "priestly kingship"
+    ],
+    "answer": 0,
+    "explanation": "Roman family law traditionally placed major household authority in the male head of family, the paterfamilias.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-136"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-136",
+    "unit": 6,
+    "topic": "Paterfamilias",
+    "concept": "paterfamilias",
+    "prompt": "Identify the concept or subject described here: Roman family law traditionally placed major household authority in the male head of family, the paterfamilias.",
+    "options": [
+      "Political Marriage",
+      "Paterfamilias",
+      "Women and Guardianship",
+      "Manus Marriage"
+    ],
+    "answer": 1,
+    "explanation": "Roman family law traditionally placed major household authority in the male head of family, the paterfamilias.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-135"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-137",
+    "unit": 6,
+    "topic": "Women and Guardianship",
+    "concept": "women_guardianship",
+    "prompt": "Which choice best captures the historical significance of Women and Guardianship?",
+    "options": [
+      "military command as a norm",
+      "complete legal equality",
+      "patriarchal legal control",
+      "universal female suffrage"
+    ],
+    "answer": 2,
+    "explanation": "Legal guardianship illustrates the restrictions placed on Roman women even when some elite women gained property or social influence.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-18",
+      "GEN-138"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-138",
+    "unit": 6,
+    "topic": "Women and Guardianship",
+    "concept": "women_guardianship",
+    "prompt": "Identify the concept or subject described here: Legal guardianship illustrates the restrictions placed on Roman women even when some elite women gained property or social influence.",
+    "options": [
+      "Paterfamilias",
+      "Manus Marriage",
+      "Political Marriage",
+      "Women and Guardianship"
+    ],
+    "answer": 3,
+    "explanation": "Legal guardianship illustrates the restrictions placed on Roman women even when some elite women gained property or social influence.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-18",
+      "GEN-137"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-139",
+    "unit": 6,
+    "topic": "Manus Marriage",
+    "concept": "manus_marriage",
+    "prompt": "Which choice best captures the historical significance of Manus Marriage?",
+    "options": [
+      "transfer of legal authority",
+      "equal co-rule",
+      "abolition of family law",
+      "automatic political office"
+    ],
+    "answer": 0,
+    "explanation": "In manus marriage, a woman entered the legal authority of her husband or his family.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-34",
+      "GEN-140"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-140",
+    "unit": 6,
+    "topic": "Manus Marriage",
+    "concept": "manus_marriage",
+    "prompt": "Identify the concept or subject described here: In manus marriage, a woman entered the legal authority of her husband or his family.",
+    "options": [
+      "Political Marriage",
+      "Manus Marriage",
+      "Paterfamilias",
+      "Women and Guardianship"
+    ],
+    "answer": 1,
+    "explanation": "In manus marriage, a woman entered the legal authority of her husband or his family.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-34",
+      "GEN-139"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-141",
+    "unit": 6,
+    "topic": "Political Marriage",
+    "concept": "political_marriage",
+    "prompt": "Which choice best captures the historical significance of Political Marriage?",
+    "options": [
+      "rejection of arranged marriage",
+      "military promotion",
+      "family alliances and politics",
+      "women voting in Senate"
+    ],
+    "answer": 2,
+    "explanation": "Elite Roman marriages could connect powerful families and function as tools of political strategy.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-37",
+      "GEN-142"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-142",
+    "unit": 6,
+    "topic": "Political Marriage",
+    "concept": "political_marriage",
+    "prompt": "Identify the concept or subject described here: Elite Roman marriages could connect powerful families and function as tools of political strategy.",
+    "options": [
+      "Paterfamilias",
+      "Women and Guardianship",
+      "Manus Marriage",
+      "Political Marriage"
+    ],
+    "answer": 3,
+    "explanation": "Elite Roman marriages could connect powerful families and function as tools of political strategy.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-37",
+      "GEN-141"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-143",
+    "unit": 6,
+    "topic": "Roman Engagement",
+    "concept": "roman_engagement",
+    "prompt": "Which choice best captures the historical significance of Roman Engagement?",
+    "options": [
+      "family alliance strategy",
+      "late celibate marriage",
+      "universal education policy",
+      "military enlistment"
+    ],
+    "answer": 0,
+    "explanation": "Early engagement and marriage practices often reflected family strategy, inheritance, and social alliances more than individual romantic choice.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-11",
+      "GEN-144"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-144",
+    "unit": 6,
+    "topic": "Roman Engagement",
+    "concept": "roman_engagement",
+    "prompt": "Identify the concept or subject described here: Early engagement and marriage practices often reflected family strategy, inheritance, and social alliances more than individual romantic choice.",
+    "options": [
+      "Manus Marriage",
+      "Roman Engagement",
+      "Paterfamilias",
+      "Women and Guardianship"
+    ],
+    "answer": 1,
+    "explanation": "Early engagement and marriage practices often reflected family strategy, inheritance, and social alliances more than individual romantic choice.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-11",
+      "GEN-143"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-145",
+    "unit": 6,
+    "topic": "Agrippina the Elder",
+    "concept": "agrippina_influence",
+    "prompt": "Which choice best captures the historical significance of Agrippina the Elder?",
+    "options": [
+      "women as consuls",
+      "abolition of patriarchy",
+      "informal female influence",
+      "routine female generalship"
+    ],
+    "answer": 2,
+    "explanation": "Agrippina the Elder shows that elite Roman women could exert informal political or military influence without holding formal command.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-26",
+      "GEN-146"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-146",
+    "unit": 6,
+    "topic": "Agrippina the Elder",
+    "concept": "agrippina_influence",
+    "prompt": "Identify the concept or subject described here: Agrippina the Elder shows that elite Roman women could exert informal political or military influence without holding formal command.",
+    "options": [
+      "Paterfamilias",
+      "Women and Guardianship",
+      "Manus Marriage",
+      "Agrippina the Elder"
+    ],
+    "answer": 3,
+    "explanation": "Agrippina the Elder shows that elite Roman women could exert informal political or military influence without holding formal command.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-26",
+      "GEN-145"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-147",
+    "unit": 6,
+    "topic": "Roman Slavery",
+    "concept": "slavery_rome",
+    "prompt": "Which choice best captures the historical significance of Roman Slavery?",
+    "options": [
+      "slavery across many economic roles",
+      "slavery limited to soldiers",
+      "no urban slavery",
+      "only foreign diplomats enslaved"
+    ],
+    "answer": 0,
+    "explanation": "Enslaved people performed domestic, agricultural, industrial, educational, and administrative labor throughout Roman society.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-148"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-148",
+    "unit": 6,
+    "topic": "Roman Slavery",
+    "concept": "slavery_rome",
+    "prompt": "Identify the concept or subject described here: Enslaved people performed domestic, agricultural, industrial, educational, and administrative labor throughout Roman society.",
+    "options": [
+      "Manus Marriage",
+      "Roman Slavery",
+      "Paterfamilias",
+      "Women and Guardianship"
+    ],
+    "answer": 1,
+    "explanation": "Enslaved people performed domestic, agricultural, industrial, educational, and administrative labor throughout Roman society.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-147"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-149",
+    "unit": 6,
+    "topic": "Patronage",
+    "concept": "patronage",
+    "prompt": "Which choice best captures the historical significance of Patronage?",
+    "options": [
+      "direct democracy",
+      "religious isolation",
+      "reciprocal but unequal social ties",
+      "universal equality"
+    ],
+    "answer": 2,
+    "explanation": "Roman patron-client relationships exchanged protection, access, influence, and services across unequal social ranks.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-150"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-150",
+    "unit": 6,
+    "topic": "Patronage",
+    "concept": "patronage",
+    "prompt": "Identify the concept or subject described here: Roman patron-client relationships exchanged protection, access, influence, and services across unequal social ranks.",
+    "options": [
+      "Paterfamilias",
+      "Women and Guardianship",
+      "Manus Marriage",
+      "Patronage"
+    ],
+    "answer": 3,
+    "explanation": "Roman patron-client relationships exchanged protection, access, influence, and services across unequal social ranks.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-149"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-151",
+    "unit": 6,
+    "topic": "Roman Baths",
+    "concept": "roman_baths",
+    "prompt": "Which choice best captures the historical significance of Roman Baths?",
+    "options": [
+      "social and recreational urban space",
+      "military barracks only",
+      "private temples",
+      "grain warehouses"
+    ],
+    "answer": 0,
+    "explanation": "Public baths functioned as places for hygiene, exercise, leisure, and social interaction.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-152"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-152",
+    "unit": 6,
+    "topic": "Roman Baths",
+    "concept": "roman_baths",
+    "prompt": "Identify the concept or subject described here: Public baths functioned as places for hygiene, exercise, leisure, and social interaction.",
+    "options": [
+      "Manus Marriage",
+      "Roman Baths",
+      "Paterfamilias",
+      "Women and Guardianship"
+    ],
+    "answer": 1,
+    "explanation": "Public baths functioned as places for hygiene, exercise, leisure, and social interaction.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-151"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-153",
+    "unit": 6,
+    "topic": "Roman Busts",
+    "concept": "roman_bust",
+    "prompt": "Which choice best captures the historical significance of Roman Busts?",
+    "options": [
+      "military plans",
+      "agricultural tools",
+      "individual identity and memory",
+      "city maps"
+    ],
+    "answer": 2,
+    "explanation": "Portrait busts helped preserve identity, ancestry, status, and memory in Roman visual culture.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-22",
+      "GEN-154"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-154",
+    "unit": 6,
+    "topic": "Roman Busts",
+    "concept": "roman_bust",
+    "prompt": "Identify the concept or subject described here: Portrait busts helped preserve identity, ancestry, status, and memory in Roman visual culture.",
+    "options": [
+      "Paterfamilias",
+      "Women and Guardianship",
+      "Manus Marriage",
+      "Roman Busts"
+    ],
+    "answer": 3,
+    "explanation": "Portrait busts helped preserve identity, ancestry, status, and memory in Roman visual culture.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-22",
+      "GEN-153"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-155",
+    "unit": 6,
+    "topic": "Verism",
+    "concept": "veristic_portraiture",
+    "prompt": "Which choice best captures the historical significance of Verism?",
+    "options": [
+      "realism tied to civic values",
+      "idealized youthful gods only",
+      "abstract geometry",
+      "gold decoration"
+    ],
+    "answer": 0,
+    "explanation": "Veristic portraiture emphasized age, wrinkles, and distinctive features to communicate experience and civic seriousness.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-28",
+      "GEN-156"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-156",
+    "unit": 6,
+    "topic": "Verism",
+    "concept": "veristic_portraiture",
+    "prompt": "Identify the concept or subject described here: Veristic portraiture emphasized age, wrinkles, and distinctive features to communicate experience and civic seriousness.",
+    "options": [
+      "Manus Marriage",
+      "Verism",
+      "Paterfamilias",
+      "Women and Guardianship"
+    ],
+    "answer": 1,
+    "explanation": "Veristic portraiture emphasized age, wrinkles, and distinctive features to communicate experience and civic seriousness.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-28",
+      "GEN-155"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-157",
+    "unit": 6,
+    "topic": "Roman Concrete",
+    "concept": "opus_caementicium",
+    "prompt": "Which choice best captures the historical significance of Roman Concrete?",
+    "options": [
+      "elimination of arches",
+      "wooden temple construction",
+      "versatile concrete engineering",
+      "pottery only"
+    ],
+    "answer": 2,
+    "explanation": "Opus caementicium gave Roman builders flexibility for vaults, domes, large structures, and durable marine construction.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-27",
+      "GEN-158"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-158",
+    "unit": 6,
+    "topic": "Roman Concrete",
+    "concept": "opus_caementicium",
+    "prompt": "Identify the concept or subject described here: Opus caementicium gave Roman builders flexibility for vaults, domes, large structures, and durable marine construction.",
+    "options": [
+      "Paterfamilias",
+      "Women and Guardianship",
+      "Manus Marriage",
+      "Roman Concrete"
+    ],
+    "answer": 3,
+    "explanation": "Opus caementicium gave Roman builders flexibility for vaults, domes, large structures, and durable marine construction.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-27",
+      "GEN-157"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-159",
+    "unit": 6,
+    "topic": "Basilica",
+    "concept": "basilica_christian",
+    "prompt": "Which choice best captures the historical significance of Basilica?",
+    "options": [
+      "adaptable large interior space",
+      "underground secrecy",
+      "small circular shrine only",
+      "military fortress"
+    ],
+    "answer": 0,
+    "explanation": "The Roman basilica’s spacious hall and aisles made the form useful for later Christian congregational worship.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-30",
+      "GEN-160"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-160",
+    "unit": 6,
+    "topic": "Basilica",
+    "concept": "basilica_christian",
+    "prompt": "Identify the concept or subject described here: The Roman basilica’s spacious hall and aisles made the form useful for later Christian congregational worship.",
+    "options": [
+      "Manus Marriage",
+      "Basilica",
+      "Paterfamilias",
+      "Women and Guardianship"
+    ],
+    "answer": 1,
+    "explanation": "The Roman basilica’s spacious hall and aisles made the form useful for later Christian congregational worship.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-30",
+      "GEN-159"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-161",
+    "unit": 6,
+    "topic": "Column Base",
+    "concept": "column_base",
+    "prompt": "Which choice best captures the historical significance of Column Base?",
+    "options": [
+      "replacement of capital",
+      "decoration only",
+      "load distribution and support",
+      "bird control"
+    ],
+    "answer": 2,
+    "explanation": "A column base transfers the shaft’s load into the supporting structure and can also contribute to the architectural order.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-35",
+      "GEN-162"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-162",
+    "unit": 6,
+    "topic": "Column Base",
+    "concept": "column_base",
+    "prompt": "Identify the concept or subject described here: A column base transfers the shaft’s load into the supporting structure and can also contribute to the architectural order.",
+    "options": [
+      "Paterfamilias",
+      "Women and Guardianship",
+      "Manus Marriage",
+      "Column Base"
+    ],
+    "answer": 3,
+    "explanation": "A column base transfers the shaft’s load into the supporting structure and can also contribute to the architectural order.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "CORE-35",
+      "GEN-161"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-163",
+    "unit": 7,
+    "topic": "Roman State Religion",
+    "concept": "roman_state_religion",
+    "prompt": "Which choice best captures the historical significance of Roman State Religion?",
+    "options": [
+      "private belief only",
+      "rejection of sacrifice",
+      "atheistic government",
+      "ritual practice tied to civic life"
+    ],
+    "answer": 3,
+    "explanation": "Roman public religion emphasized correct ritual, sacrifice, priesthoods, and maintaining favorable relations with the gods.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-164"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-164",
+    "unit": 7,
+    "topic": "Roman State Religion",
+    "concept": "roman_state_religion",
+    "prompt": "Identify the concept or subject described here: Roman public religion emphasized correct ritual, sacrifice, priesthoods, and maintaining favorable relations with the gods.",
+    "options": [
+      "Roman State Religion",
+      "Religious Syncretism",
+      "Imperial Cult",
+      "Stoicism"
+    ],
+    "answer": 0,
+    "explanation": "Roman public religion emphasized correct ritual, sacrifice, priesthoods, and maintaining favorable relations with the gods.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-163"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-165",
+    "unit": 7,
+    "topic": "Religious Syncretism",
+    "concept": "roman_syncretism",
+    "prompt": "Which choice best captures the historical significance of Religious Syncretism?",
+    "options": [
+      "ban on foreign gods in all periods",
+      "adaptable religious blending",
+      "complete religious isolation",
+      "one unchanging cult only"
+    ],
+    "answer": 1,
+    "explanation": "Roman religion was highly adaptable and frequently identified, adopted, or blended deities and practices from conquered peoples.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-166"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-166",
+    "unit": 7,
+    "topic": "Religious Syncretism",
+    "concept": "roman_syncretism",
+    "prompt": "Identify the concept or subject described here: Roman religion was highly adaptable and frequently identified, adopted, or blended deities and practices from conquered peoples.",
+    "options": [
+      "Imperial Cult",
+      "Stoicism",
+      "Religious Syncretism",
+      "Roman State Religion"
+    ],
+    "answer": 2,
+    "explanation": "Roman religion was highly adaptable and frequently identified, adopted, or blended deities and practices from conquered peoples.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-165"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-167",
+    "unit": 7,
+    "topic": "Imperial Cult",
+    "concept": "imperial_cult",
+    "prompt": "Which choice best captures the historical significance of Imperial Cult?",
+    "options": [
+      "abolition of civic ritual",
+      "private philosophy only",
+      "Spartan military training",
+      "religion reinforcing political loyalty"
+    ],
+    "answer": 3,
+    "explanation": "The imperial cult linked loyalty to emperor and empire with public ritual, civic identity, and political authority.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-168"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-168",
+    "unit": 7,
+    "topic": "Imperial Cult",
+    "concept": "imperial_cult",
+    "prompt": "Identify the concept or subject described here: The imperial cult linked loyalty to emperor and empire with public ritual, civic identity, and political authority.",
+    "options": [
+      "Imperial Cult",
+      "Roman State Religion",
+      "Religious Syncretism",
+      "Stoicism"
+    ],
+    "answer": 0,
+    "explanation": "The imperial cult linked loyalty to emperor and empire with public ritual, civic identity, and political authority.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-167"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-169",
+    "unit": 7,
+    "topic": "Stoicism",
+    "concept": "stoicism",
+    "prompt": "Which choice best captures the historical significance of Stoicism?",
+    "options": [
+      "rule by emotion",
+      "reason, duty, and self-control",
+      "luxury as the highest good",
+      "withdrawal from all society"
+    ],
+    "answer": 1,
+    "explanation": "Stoicism taught self-control, reason, duty, and living according to nature, making it attractive to many Roman elites and public servants.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-170"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-170",
+    "unit": 7,
+    "topic": "Stoicism",
+    "concept": "stoicism",
+    "prompt": "Identify the concept or subject described here: Stoicism taught self-control, reason, duty, and living according to nature, making it attractive to many Roman elites and public servants.",
+    "options": [
+      "Religious Syncretism",
+      "Imperial Cult",
+      "Stoicism",
+      "Roman State Religion"
+    ],
+    "answer": 2,
+    "explanation": "Stoicism taught self-control, reason, duty, and living according to nature, making it attractive to many Roman elites and public servants.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-169"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-171",
+    "unit": 7,
+    "topic": "Epicureanism",
+    "concept": "epicureanism",
+    "prompt": "Which choice best captures the historical significance of Epicureanism?",
+    "options": [
+      "military glory",
+      "political domination",
+      "ritual sacrifice as sole goal",
+      "tranquility and freedom from fear"
+    ],
+    "answer": 3,
+    "explanation": "Epicurean ethics sought tranquility and freedom from unnecessary fear and pain through moderation, friendship, and rational understanding.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-172"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-172",
+    "unit": 7,
+    "topic": "Epicureanism",
+    "concept": "epicureanism",
+    "prompt": "Identify the concept or subject described here: Epicurean ethics sought tranquility and freedom from unnecessary fear and pain through moderation, friendship, and rational understanding.",
+    "options": [
+      "Epicureanism",
+      "Roman State Religion",
+      "Religious Syncretism",
+      "Imperial Cult"
+    ],
+    "answer": 0,
+    "explanation": "Epicurean ethics sought tranquility and freedom from unnecessary fear and pain through moderation, friendship, and rational understanding.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-171"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-173",
+    "unit": 7,
+    "topic": "Neoplatonism",
+    "concept": "neoplatonism",
+    "prompt": "Which choice best captures the historical significance of Neoplatonism?",
+    "options": [
+      "agricultural reform",
+      "spiritual philosophical ascent",
+      "military conquest",
+      "commercial law"
+    ],
+    "answer": 1,
+    "explanation": "Neoplatonism developed a philosophical tradition centered on a highest principle and the soul’s ascent toward unity and truth.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-174"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-174",
+    "unit": 7,
+    "topic": "Neoplatonism",
+    "concept": "neoplatonism",
+    "prompt": "Identify the concept or subject described here: Neoplatonism developed a philosophical tradition centered on a highest principle and the soul’s ascent toward unity and truth.",
+    "options": [
+      "Religious Syncretism",
+      "Imperial Cult",
+      "Neoplatonism",
+      "Roman State Religion"
+    ],
+    "answer": 2,
+    "explanation": "Neoplatonism developed a philosophical tradition centered on a highest principle and the soul’s ascent toward unity and truth.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-173"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-175",
+    "unit": 7,
+    "topic": "Christianity in Rome",
+    "concept": "christianity_rome",
+    "prompt": "Which choice best captures the historical significance of Christianity in Rome?",
+    "options": [
+      "return to Greek city-states",
+      "abolition of all philosophy",
+      "Persian conquest",
+      "religious transformation of the empire"
+    ],
+    "answer": 3,
+    "explanation": "Christianity grew from a minority movement into a major imperial religion, changing Roman religious and cultural life.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-176"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-176",
+    "unit": 7,
+    "topic": "Christianity in Rome",
+    "concept": "christianity_rome",
+    "prompt": "Identify the concept or subject described here: Christianity grew from a minority movement into a major imperial religion, changing Roman religious and cultural life.",
+    "options": [
+      "Christianity in Rome",
+      "Roman State Religion",
+      "Religious Syncretism",
+      "Imperial Cult"
+    ],
+    "answer": 0,
+    "explanation": "Christianity grew from a minority movement into a major imperial religion, changing Roman religious and cultural life.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-175"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-177",
+    "unit": 7,
+    "topic": "Religion and Authority",
+    "concept": "religion_legitimacy",
+    "prompt": "Which choice best captures the historical significance of Religion and Authority?",
+    "options": [
+      "rule by merchants",
+      "religion supporting political legitimacy",
+      "separation of all ritual from government",
+      "rejection of public ceremony"
+    ],
+    "answer": 1,
+    "explanation": "Roman rulers and institutions used religious offices, rituals, omens, and sacred symbols to legitimize political authority.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-178"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-178",
+    "unit": 7,
+    "topic": "Religion and Authority",
+    "concept": "religion_legitimacy",
+    "prompt": "Identify the concept or subject described here: Roman rulers and institutions used religious offices, rituals, omens, and sacred symbols to legitimize political authority.",
+    "options": [
+      "Religious Syncretism",
+      "Imperial Cult",
+      "Religion and Authority",
+      "Roman State Religion"
+    ],
+    "answer": 2,
+    "explanation": "Roman rulers and institutions used religious offices, rituals, omens, and sacred symbols to legitimize political authority.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-177"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-179",
+    "unit": 8,
+    "topic": "Democratic Legacy",
+    "concept": "legacy_democracy",
+    "prompt": "Which choice best captures the historical significance of Democratic Legacy?",
+    "options": [
+      "Roman monarchy",
+      "Persian satrapies",
+      "adapted Greek civic participation",
+      "direct continuation without change"
+    ],
+    "answer": 2,
+    "explanation": "Modern democratic participation draws on Greek examples of citizen debate and voting while expanding citizenship far beyond ancient limits.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-180"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-180",
+    "unit": 8,
+    "topic": "Democratic Legacy",
+    "concept": "legacy_democracy",
+    "prompt": "Identify the concept or subject described here: Modern democratic participation draws on Greek examples of citizen debate and voting while expanding citizenship far beyond ancient limits.",
+    "options": [
+      "Rule of Law",
+      "Classical Education Legacy",
+      "Neoclassical Architecture",
+      "Democratic Legacy"
+    ],
+    "answer": 3,
+    "explanation": "Modern democratic participation draws on Greek examples of citizen debate and voting while expanding citizenship far beyond ancient limits.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-179"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-181",
+    "unit": 8,
+    "topic": "Rule of Law",
+    "concept": "legacy_rule_law",
+    "prompt": "Which choice best captures the historical significance of Rule of Law?",
+    "options": [
+      "Roman legal influence adapted to modern law",
+      "Greek myth as constitutional law",
+      "Spartan iron currency",
+      "Hellenistic sculpture only"
+    ],
+    "answer": 0,
+    "explanation": "Modern constitutional systems draw on Roman traditions of written law, legal procedure, citizenship, and interpretation while transforming them in new contexts.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-182"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-182",
+    "unit": 8,
+    "topic": "Rule of Law",
+    "concept": "legacy_rule_law",
+    "prompt": "Identify the concept or subject described here: Modern constitutional systems draw on Roman traditions of written law, legal procedure, citizenship, and interpretation while transforming them in new contexts.",
+    "options": [
+      "Neoclassical Architecture",
+      "Rule of Law",
+      "Democratic Legacy",
+      "Classical Education Legacy"
+    ],
+    "answer": 1,
+    "explanation": "Modern constitutional systems draw on Roman traditions of written law, legal procedure, citizenship, and interpretation while transforming them in new contexts.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-181"
+    ],
+    "access": "free"
+  },
+  {
+    "id": "GEN-183",
+    "unit": 8,
+    "topic": "Classical Education Legacy",
+    "concept": "legacy_education",
+    "prompt": "Which choice best captures the historical significance of Classical Education Legacy?",
+    "options": [
+      "job training only",
+      "replacement of philosophy",
+      "critical thinking and rhetoric",
+      "memorization only"
+    ],
+    "answer": 2,
+    "explanation": "Teaching logic, rhetoric, critical thinking, philosophy, and civic reasoning continues important Greek and Roman intellectual traditions.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-184"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-184",
+    "unit": 8,
+    "topic": "Classical Education Legacy",
+    "concept": "legacy_education",
+    "prompt": "Identify the concept or subject described here: Teaching logic, rhetoric, critical thinking, philosophy, and civic reasoning continues important Greek and Roman intellectual traditions.",
+    "options": [
+      "Democratic Legacy",
+      "Rule of Law",
+      "Neoclassical Architecture",
+      "Classical Education Legacy"
+    ],
+    "answer": 3,
+    "explanation": "Teaching logic, rhetoric, critical thinking, philosophy, and civic reasoning continues important Greek and Roman intellectual traditions.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-183"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-185",
+    "unit": 8,
+    "topic": "Neoclassical Architecture",
+    "concept": "legacy_architecture",
+    "prompt": "Which choice best captures the historical significance of Neoclassical Architecture?",
+    "options": [
+      "classical forms as civic symbolism",
+      "rejection of antiquity",
+      "temporary architecture",
+      "economic efficiency only"
+    ],
+    "answer": 0,
+    "explanation": "Columns, pediments, symmetry, and monumental classical forms are often used by modern governments to signal stability, authority, rationality, and civic order.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-186"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-186",
+    "unit": 8,
+    "topic": "Neoclassical Architecture",
+    "concept": "legacy_architecture",
+    "prompt": "Identify the concept or subject described here: Columns, pediments, symmetry, and monumental classical forms are often used by modern governments to signal stability, authority, rationality, and civic order.",
+    "options": [
+      "Classical Education Legacy",
+      "Neoclassical Architecture",
+      "Democratic Legacy",
+      "Rule of Law"
+    ],
+    "answer": 1,
+    "explanation": "Columns, pediments, symmetry, and monumental classical forms are often used by modern governments to signal stability, authority, rationality, and civic order.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-185"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-187",
+    "unit": 8,
+    "topic": "Constitutional Courts",
+    "concept": "legacy_courts",
+    "prompt": "Which choice best captures the historical significance of Constitutional Courts?",
+    "options": [
+      "hereditary kingship",
+      "religious oracle",
+      "law interpreted through institutions",
+      "informal neighborhood custom only"
+    ],
+    "answer": 2,
+    "explanation": "Constitutional courts reflect ideals of stable written law, legal interpretation, precedent, and limits on political power.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-188"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-188",
+    "unit": 8,
+    "topic": "Constitutional Courts",
+    "concept": "legacy_courts",
+    "prompt": "Identify the concept or subject described here: Constitutional courts reflect ideals of stable written law, legal interpretation, precedent, and limits on political power.",
+    "options": [
+      "Democratic Legacy",
+      "Rule of Law",
+      "Classical Education Legacy",
+      "Constitutional Courts"
+    ],
+    "answer": 3,
+    "explanation": "Constitutional courts reflect ideals of stable written law, legal interpretation, precedent, and limits on political power.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-187"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-189",
+    "unit": 8,
+    "topic": "Republican Legacy",
+    "concept": "legacy_republic",
+    "prompt": "Which choice best captures the historical significance of Republican Legacy?",
+    "options": [
+      "participation plus institutional restraint",
+      "absolute hereditary rule",
+      "rule by priests",
+      "rotating dictators"
+    ],
+    "answer": 0,
+    "explanation": "Modern representative government combines ideas of civic participation with institutional structures, divided offices, and legal limits on power.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-190"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-190",
+    "unit": 8,
+    "topic": "Republican Legacy",
+    "concept": "legacy_republic",
+    "prompt": "Identify the concept or subject described here: Modern representative government combines ideas of civic participation with institutional structures, divided offices, and legal limits on power.",
+    "options": [
+      "Classical Education Legacy",
+      "Republican Legacy",
+      "Democratic Legacy",
+      "Rule of Law"
+    ],
+    "answer": 1,
+    "explanation": "Modern representative government combines ideas of civic participation with institutional structures, divided offices, and legal limits on power.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-189"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-191",
+    "unit": 8,
+    "topic": "Latin Legacy",
+    "concept": "legacy_language",
+    "prompt": "Which choice best captures the historical significance of Latin Legacy?",
+    "options": [
+      "elimination of Greek terms",
+      "Spartan currency",
+      "language and vocabulary legacy",
+      "Persian alphabet only"
+    ],
+    "answer": 2,
+    "explanation": "Latin influenced modern vocabulary, law, science, religion, and the development of Romance languages.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-192"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-192",
+    "unit": 8,
+    "topic": "Latin Legacy",
+    "concept": "legacy_language",
+    "prompt": "Identify the concept or subject described here: Latin influenced modern vocabulary, law, science, religion, and the development of Romance languages.",
+    "options": [
+      "Democratic Legacy",
+      "Rule of Law",
+      "Classical Education Legacy",
+      "Latin Legacy"
+    ],
+    "answer": 3,
+    "explanation": "Latin influenced modern vocabulary, law, science, religion, and the development of Romance languages.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-191"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-193",
+    "unit": 8,
+    "topic": "Infrastructure Legacy",
+    "concept": "legacy_infrastructure",
+    "prompt": "Which choice best captures the historical significance of Infrastructure Legacy?",
+    "options": [
+      "engineering and integration",
+      "rejection of public works",
+      "isolation of cities",
+      "temporary wooden building only"
+    ],
+    "answer": 0,
+    "explanation": "Roman roads, bridges, aqueducts, concrete, and urban planning remain models for how infrastructure can integrate large societies.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-194"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-194",
+    "unit": 8,
+    "topic": "Infrastructure Legacy",
+    "concept": "legacy_infrastructure",
+    "prompt": "Identify the concept or subject described here: Roman roads, bridges, aqueducts, concrete, and urban planning remain models for how infrastructure can integrate large societies.",
+    "options": [
+      "Classical Education Legacy",
+      "Infrastructure Legacy",
+      "Democratic Legacy",
+      "Rule of Law"
+    ],
+    "answer": 1,
+    "explanation": "Roman roads, bridges, aqueducts, concrete, and urban planning remain models for how infrastructure can integrate large societies.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-193"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-195",
+    "unit": 8,
+    "topic": "Artistic Legacy",
+    "concept": "legacy_art",
+    "prompt": "Which choice best captures the historical significance of Artistic Legacy?",
+    "options": [
+      "no influence after antiquity",
+      "only military imagery",
+      "multiple classical artistic traditions",
+      "one unchanging ancient style"
+    ],
+    "answer": 2,
+    "explanation": "Greek idealism, Hellenistic expression, and Roman realism continue to influence later Western art and public monuments.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-196"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-196",
+    "unit": 8,
+    "topic": "Artistic Legacy",
+    "concept": "legacy_art",
+    "prompt": "Identify the concept or subject described here: Greek idealism, Hellenistic expression, and Roman realism continue to influence later Western art and public monuments.",
+    "options": [
+      "Democratic Legacy",
+      "Rule of Law",
+      "Classical Education Legacy",
+      "Artistic Legacy"
+    ],
+    "answer": 3,
+    "explanation": "Greek idealism, Hellenistic expression, and Roman realism continue to influence later Western art and public monuments.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-195"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-197",
+    "unit": 8,
+    "topic": "Citizenship Legacy",
+    "concept": "legacy_citizenship",
+    "prompt": "Which choice best captures the historical significance of Citizenship Legacy?",
+    "options": [
+      "expanded and transformed citizenship",
+      "unchanged ancient exclusion",
+      "citizenship based only on slavery",
+      "no civic duties"
+    ],
+    "answer": 0,
+    "explanation": "Modern citizenship expands beyond the narrow categories of ancient Athens and Rome while retaining ideas of rights, duties, public participation, and law.",
+    "difficulty": 1,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-198"
+    ],
+    "access": "premium"
+  },
+  {
+    "id": "GEN-198",
+    "unit": 8,
+    "topic": "Citizenship Legacy",
+    "concept": "legacy_citizenship",
+    "prompt": "Identify the concept or subject described here: Modern citizenship expands beyond the narrow categories of ancient Athens and Rome while retaining ideas of rights, duties, public participation, and law.",
+    "options": [
+      "Classical Education Legacy",
+      "Citizenship Legacy",
+      "Democratic Legacy",
+      "Rule of Law"
+    ],
+    "answer": 1,
+    "explanation": "Modern citizenship expands beyond the narrow categories of ancient Athens and Rome while retaining ideas of rights, duties, public participation, and law.",
+    "difficulty": 2,
+    "source": "Original AmooPrep practice item based on widely documented historical facts.",
+    "relatedQuestionIds": [
+      "GEN-197"
+    ],
+    "access": "premium"
+  }
+]

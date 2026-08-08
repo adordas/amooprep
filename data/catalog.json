@@ -1,0 +1,18 @@
+{
+  "platform": "AmooPrep",
+  "version": "1.0",
+  "defaultCourseId": "greek-roman-civilization",
+  "courses": [
+    {
+      "courseId": "greek-roman-civilization",
+      "title": "Greek & Roman Civilization",
+      "packName": "Greek & Roman Civilization \u2014 Final Review",
+      "summary": "Adaptive review of ancient Greek and Roman government, society, wars, philosophy, law, religion, art, architecture, and legacy.",
+      "status": "available",
+      "price": "$9.99",
+      "questionCount": 198,
+      "flashcardCount": 99,
+      "landingPageUrl": "https://adordas.github.io/amooprep/courses/greek-roman-civilization.html"
+    }
+  ]
+}

@@ -1,39 +1,35 @@
-# AmooPrep Website — GitHub Pages Ready
+# AmooPrep — Commercial Foundation v0.1.0
 
-This folder is a complete static website for AmooPrep. It can be hosted for free on GitHub Pages, Cloudflare Pages, Netlify, or another static host.
+This is the public/commercial branch. It is separate from the private course-specific extension.
 
-## Fastest GitHub Pages setup
+**Brand:** AmooPrep  
+**First course pack:** Greek & Roman Civilization — Final Review
 
-1. Create or sign in to a GitHub account.
-2. Create a new **public** repository named `amooprep` (or another name you prefer).
-3. Upload every file and folder from this website package to the repository root. `index.html` must remain at the root.
-4. Open the repository **Settings** → **Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select branch **main** and folder **/(root)**, then click **Save**.
-7. GitHub will publish a URL similar to:
-   `https://YOUR-GITHUB-USERNAME.github.io/amooprep/`
-8. Open the URL in a private/incognito window and confirm the homepage, Privacy Policy, Terms, Refund Policy, Product, and Support pages load.
-9. Use that live public URL for the Lemon Squeezy **Website URL** field.
+The build intentionally contains **no UOP/University branding, no school name, no course code, and none of the exact 40 review questions** from the private version. The commercial question bank contains 198 original practice items written around historical concepts.
 
-## Before commercial launch
+## Free vs Premium
+- Free: 32 questions (4 per topic), 24 flashcards, timeline, people/ideas, progress tracking, 10-question mock.
+- Premium: all 198 questions, all 99 flashcards, 20/40/60-question mocks, full adaptive bank.
 
-Open `site-config.js` and fill in:
+## Before selling
+Complete `LEMON_SQUEEZY_SETUP.md`, then edit `data/commerce.json`.
 
-- `lemonCheckoutUrl` — your reusable Lemon Squeezy `/checkout/buy/...` URL
-- `chromeStoreUrl` — your Chrome Web Store listing after publication
-- `supportEmail` — the public email customers should use
 
-The website automatically updates the matching buttons and support links after those values are added.
+## v0.3.0 commerce status
+The reusable Lemon Squeezy checkout URL is now wired into the Buy Premium button. Privacy, Terms, and Refund links point to the public AmooPrep GitHub Pages site. License activation remains intentionally locked until the numeric Lemon Squeezy Product ID and Variant ID are added to `data/commerce.json`.
 
-## Current product positioning
 
-- Brand: **AmooPrep**
-- Product: **Greek & Roman Civilization — Final Review**
-- Planned Premium price: **$9.99 one time**
-- Independent product; no university branding or affiliation claim
-- Free starter + optional Premium unlock
-- Payments planned through Lemon Squeezy
+## v0.3.0 licensing test
 
-## Important
+This build is configured for the AmooPrep Greek & Roman Civilization Premium Lemon Squeezy product.
 
-The legal pages are a practical launch draft, not legal advice. Review them before final commercial publication, especially if your business structure, refund rules, countries sold into, or data practices change.
+- Product ID: `1276326`
+- Variant ID: `1995382`
+- Checkout URL: `https://amooprep.lemonsqueezy.com/checkout/buy/c70c2a13-08c4-4e7c-9143-5fb74da9967c`
+
+Use a Lemon Squeezy **test-mode** license for testing. A successful activation should increase the license activation count from `0/3` to `1/3`. Deactivating the browser should return it to `0/3`.
+
+This is a licensing integration test build. Premium content is still packaged with the extension and gated by license state; move premium content delivery behind an authenticated download before treating content protection as production-grade.
+
+## v0.4.0 multi-course update
+AmooPrep now opens to a Course Library and loads course packs from `data/courses/<course-id>/`. Greek & Roman Civilization remains Course #1. See `MULTI_COURSE_ARCHITECTURE.md` before adding Course #2.

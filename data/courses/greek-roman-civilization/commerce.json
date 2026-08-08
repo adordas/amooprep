@@ -1,0 +1,14 @@
+{
+  "provider": "Lemon Squeezy",
+  "checkoutUrl": "https://amooprep.lemonsqueezy.com/checkout/buy/c70c2a13-08c4-4e7c-9143-5fb74da9967c",
+  "expectedProductId": "1276326",
+  "expectedVariantId": "1995382",
+  "licenseApiBase": "https://api.lemonsqueezy.com/v1/licenses",
+  "activationLabelPrefix": "AmooPrep Chrome",
+  "supportEmail": "YOUR_SUPPORT_EMAIL",
+  "privacyPolicyUrl": "https://adordas.github.io/amooprep/privacy.html",
+  "termsUrl": "https://adordas.github.io/amooprep/terms.html",
+  "refundPolicyUrl": "https://adordas.github.io/amooprep/refunds.html",
+  "price": "$9.99",
+  "landingPageUrl": "https://adordas.github.io/amooprep/courses/greek-roman-civilization.html"
+}

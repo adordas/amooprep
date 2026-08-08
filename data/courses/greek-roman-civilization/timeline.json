@@ -1,0 +1,142 @@
+[
+  {
+    "date": "c. 753 BCE",
+    "event": "Traditional founding of Rome",
+    "unit": 4
+  },
+  {
+    "date": "c. 594 BCE",
+    "event": "Solon’s reforms in Athens",
+    "unit": 1
+  },
+  {
+    "date": "c. 508/507 BCE",
+    "event": "Cleisthenic democratic reforms in Athens",
+    "unit": 1
+  },
+  {
+    "date": "509 BCE (traditional)",
+    "event": "Roman monarchy replaced by the Republic",
+    "unit": 4
+  },
+  {
+    "date": "499–493 BCE",
+    "event": "Ionian Revolt against Persian rule",
+    "unit": 3
+  },
+  {
+    "date": "490 BCE",
+    "event": "Battle of Marathon",
+    "unit": 3
+  },
+  {
+    "date": "480 BCE",
+    "event": "Thermopylae and Salamis during Xerxes’ invasion",
+    "unit": 3
+  },
+  {
+    "date": "478/477 BCE",
+    "event": "Formation of the Delian League",
+    "unit": 3
+  },
+  {
+    "date": "431–404 BCE",
+    "event": "Peloponnesian War",
+    "unit": 3
+  },
+  {
+    "date": "404 BCE",
+    "event": "Thirty Tyrants rule Athens after Spartan victory",
+    "unit": 3
+  },
+  {
+    "date": "403 BCE",
+    "event": "Democracy restored in Athens with Thrasybulus and allies",
+    "unit": 3
+  },
+  {
+    "date": "371 BCE",
+    "event": "Thebes defeats Sparta at Leuctra",
+    "unit": 3
+  },
+  {
+    "date": "338 BCE",
+    "event": "Philip II defeats Greek coalition at Chaeronea",
+    "unit": 3
+  },
+  {
+    "date": "336–323 BCE",
+    "event": "Alexander the Great’s reign and conquests",
+    "unit": 3
+  },
+  {
+    "date": "323 BCE",
+    "event": "Death of Alexander; Hellenistic age expands",
+    "unit": 3
+  },
+  {
+    "date": "264–241 BCE",
+    "event": "First Punic War",
+    "unit": 5
+  },
+  {
+    "date": "218–201 BCE",
+    "event": "Second Punic War and Hannibal’s invasion of Italy",
+    "unit": 5
+  },
+  {
+    "date": "216 BCE",
+    "event": "Hannibal wins at Cannae",
+    "unit": 5
+  },
+  {
+    "date": "202 BCE",
+    "event": "Scipio defeats Hannibal at Zama",
+    "unit": 5
+  },
+  {
+    "date": "146 BCE",
+    "event": "Rome destroys Carthage and Corinth",
+    "unit": 5
+  },
+  {
+    "date": "49 BCE",
+    "event": "Caesar crosses the Rubicon; civil war begins",
+    "unit": 5
+  },
+  {
+    "date": "44 BCE",
+    "event": "Assassination of Julius Caesar",
+    "unit": 5
+  },
+  {
+    "date": "31 BCE",
+    "event": "Octavian defeats Antony and Cleopatra at Actium",
+    "unit": 5
+  },
+  {
+    "date": "27 BCE",
+    "event": "Octavian receives title Augustus; principate begins",
+    "unit": 5
+  },
+  {
+    "date": "96–180 CE",
+    "event": "Era traditionally called the Five Good Emperors",
+    "unit": 5
+  },
+  {
+    "date": "235–284 CE",
+    "event": "Third-Century Crisis",
+    "unit": 5
+  },
+  {
+    "date": "395 CE",
+    "event": "Permanent administrative division of eastern and western imperial courts",
+    "unit": 5
+  },
+  {
+    "date": "476 CE",
+    "event": "Traditional date for the end of the Western Roman Empire",
+    "unit": 5
+  }
+]

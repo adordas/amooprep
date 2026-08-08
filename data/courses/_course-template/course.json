@@ -1,0 +1,15 @@
+{
+  "courseId": "replace-course-id",
+  "title": "Replace Course Title",
+  "productName": "AmooPrep",
+  "packName": "Replace Course Title \u2014 Final Review",
+  "version": "0.1.0",
+  "questionCount": 0,
+  "freeQuestionCount": 0,
+  "premiumQuestionCount": 0,
+  "freeFlashcardCount": 0,
+  "flashcardCount": 0,
+  "disclaimer": "Independent educational study tool. AmooPrep is not affiliated with, sponsored by, or endorsed by any university, school, testing provider, or proctoring service.",
+  "dataPolicy": "Study progress and license state are stored locally in Chrome. Payment is handled on Lemon Squeezy\u2019s hosted checkout. The extension never receives or stores card details.",
+  "purpose": "Adaptive pre-exam study and review."
+}

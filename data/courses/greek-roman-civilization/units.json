@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Democracy in Ancient Greece",
+    "short": "Greek Democracy",
+    "description": "Polis, citizenship, Athens, political participation, reform, and the Persian context."
+  },
+  {
+    "id": 2,
+    "title": "Greek Society and Philosophy",
+    "short": "Greek Society & Philosophy",
+    "description": "Arete, Athens and Sparta, philosophy, medicine, science, religion, art, and education."
+  },
+  {
+    "id": 3,
+    "title": "Wars and Political Change in Greece",
+    "short": "Greek Wars & Change",
+    "description": "Persian Wars, Peloponnesian War, oligarchy, Thebes, Macedon, and Hellenistic transformation."
+  },
+  {
+    "id": 4,
+    "title": "The Rise of Rome",
+    "short": "Rise of Rome",
+    "description": "Roman kings, Etruscan influence, Republic, patricians, plebeians, family, law, and expansion."
+  },
+  {
+    "id": 5,
+    "title": "Roman Expansion and Empire",
+    "short": "Roman Expansion",
+    "description": "Punic Wars, Mediterranean conquest, Caesar, Augustus, military power, roads, provinces, and empire."
+  },
+  {
+    "id": 6,
+    "title": "Roman Society and Daily Life",
+    "short": "Roman Society",
+    "description": "Family, women, class, slavery, patronage, architecture, portraiture, entertainment, and urban life."
+  },
+  {
+    "id": 7,
+    "title": "Roman Religion and Philosophy",
+    "short": "Religion & Philosophy",
+    "description": "State religion, imperial cult, Stoicism, Epicureanism, syncretism, Christianity, and moral life."
+  },
+  {
+    "id": 8,
+    "title": "Greco-Roman Legacy and the Modern World",
+    "short": "Classical Legacy",
+    "description": "Democracy, citizenship, law, education, architecture, civic values, language, and modern institutions."
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Solon",
+    "unit": 1,
+    "why": "Athenian lawgiver associated with debt relief and political reform."
+  },
+  {
+    "name": "Cleisthenes",
+    "unit": 1,
+    "why": "Reorganized Athenian political structures and helped deepen democracy."
+  },
+  {
+    "name": "Herodotus",
+    "unit": 1,
+    "why": "Historian known for inquiry, travel, evidence, and explanations of the Persian Wars."
+  },
+  {
+    "name": "Socrates",
+    "unit": 2,
+    "why": "Used questioning to examine virtue, justice, and knowledge."
+  },
+  {
+    "name": "Plato",
+    "unit": 2,
+    "why": "Developed theories of Forms, philosophical education, and ideal government."
+  },
+  {
+    "name": "Aristotle",
+    "unit": 2,
+    "why": "Favored observation, classification, and practical analysis of real constitutions."
+  },
+  {
+    "name": "Hippocrates",
+    "unit": 2,
+    "why": "Associated with naturalistic medicine, observation, and medical ethics."
+  },
+  {
+    "name": "Aristarchus",
+    "unit": 2,
+    "why": "Proposed an early heliocentric model."
+  },
+  {
+    "name": "Cyrus the Great",
+    "unit": 3,
+    "why": "Founded the Achaemenid Persian Empire by defeating Median rule and expanding Persian power."
+  },
+  {
+    "name": "Darius I",
+    "unit": 3,
+    "why": "Expanded and administered the Persian Empire while facing revolts and Greek resistance."
+  },
+  {
+    "name": "Xerxes I",
+    "unit": 3,
+    "why": "Led the major Persian invasion of Greece in 480 BCE."
+  },
+  {
+    "name": "Pericles",
+    "unit": 3,
+    "why": "Athenian statesman associated with democracy, empire, building, and the early Peloponnesian War."
+  },
+  {
+    "name": "Thrasybulus",
+    "unit": 3,
+    "why": "Helped overthrow the Thirty Tyrants and restore Athenian democracy."
+  },
+  {
+    "name": "Philip II",
+    "unit": 3,
+    "why": "Strengthened Macedonia and brought much of Greece under Macedonian leadership."
+  },
+  {
+    "name": "Alexander the Great",
+    "unit": 3,
+    "why": "Conquered the Persian Empire and accelerated Hellenistic cultural diffusion."
+  },
+  {
+    "name": "Cincinnatus",
+    "unit": 4,
+    "why": "Roman model of civic virtue and temporary emergency power."
+  },
+  {
+    "name": "Hannibal",
+    "unit": 5,
+    "why": "Carthaginian commander who invaded Italy during the Second Punic War."
+  },
+  {
+    "name": "Scipio Africanus",
+    "unit": 5,
+    "why": "Roman commander who defeated Hannibal at Zama."
+  },
+  {
+    "name": "Julius Caesar",
+    "unit": 5,
+    "why": "General and dictator whose civil war accelerated the Republic’s collapse."
+  },
+  {
+    "name": "Augustus",
+    "unit": 5,
+    "why": "First Roman emperor in practice; established the principate while preserving republican forms."
+  },
+  {
+    "name": "Agrippina the Elder",
+    "unit": 6,
+    "why": "Example of an elite Roman woman exercising significant informal political and military influence."
+  }
+]
