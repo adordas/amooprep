@@ -1,43 +1,51 @@
 (() => {
   const cfg = window.AMOOPREP_CONFIG || {};
-  const buyButtons = document.querySelectorAll('[data-buy-premium]');
-  const chromeButtons = document.querySelectorAll('[data-chrome-store]');
-  const supportLinks = document.querySelectorAll('[data-support-email]');
-  const priceEls = document.querySelectorAll('[data-price]');
+  const pageCourseId = document.body?.dataset?.courseId || cfg.defaultCourseId || '';
+  const rootPath = document.body?.dataset?.rootPath || '';
+  const internalUrl = (u) => !u || /^(?:https?:|mailto:|#)/i.test(u) ? u : `${rootPath}${u}`;
+  const getCourse = (id) => (cfg.courses || {})[id] || {};
 
-  priceEls.forEach(el => el.textContent = cfg.price || '$9.99');
+  document.querySelectorAll('[data-price]').forEach(el => {
+    const id = el.dataset.courseId || pageCourseId;
+    el.textContent = getCourse(id).price || '$9.99';
+  });
 
-  buyButtons.forEach(btn => {
-    if (cfg.lemonCheckoutUrl) {
-      btn.href = cfg.lemonCheckoutUrl;
+  document.querySelectorAll('[data-buy-premium]').forEach(btn => {
+    const id = btn.dataset.courseId || pageCourseId;
+    const course = getCourse(id);
+    if (course.checkoutUrl) {
+      btn.href = course.checkoutUrl;
       btn.target = '_blank';
-      btn.rel = 'noopener';
+      btn.rel = 'noopener noreferrer';
+      if (btn.dataset.keepLabel !== 'true' && /coming soon/i.test(btn.textContent || '')) {
+        btn.textContent = `Buy Premium — ${course.price || '$9.99'}`;
+      }
     } else {
-      btn.href = 'product.html';
+      btn.href = internalUrl(course.pageUrl || 'courses/index.html');
       btn.classList.add('btn-disabled');
-      btn.title = 'Checkout link will be added after the Lemon Squeezy product is created.';
-      if (btn.dataset.labelComing !== 'false') btn.textContent = 'Premium — Checkout Coming Soon';
+      btn.title = 'Checkout is not available for this course yet.';
+      if (btn.dataset.keepLabel !== 'true') btn.textContent = 'Premium — Coming Soon';
     }
   });
 
-  chromeButtons.forEach(btn => {
+  document.querySelectorAll('[data-chrome-store]').forEach(btn => {
     if (cfg.chromeStoreUrl) {
       btn.href = cfg.chromeStoreUrl;
       btn.target = '_blank';
-      btn.rel = 'noopener';
+      btn.rel = 'noopener noreferrer';
     } else {
-      btn.href = 'product.html';
+      btn.href = internalUrl('courses/index.html');
       btn.classList.add('btn-disabled');
-      btn.textContent = 'Chrome Web Store — Coming Soon';
+      if (/install|chrome web store/i.test(btn.textContent || '')) btn.textContent = 'Chrome Web Store — Coming Soon';
     }
   });
 
-  supportLinks.forEach(link => {
+  document.querySelectorAll('[data-support-email]').forEach(link => {
     if (cfg.supportEmail) {
       link.href = `mailto:${cfg.supportEmail}`;
       link.textContent = cfg.supportEmail;
     } else {
-      link.href = 'contact.html';
+      link.href = internalUrl('contact.html');
       link.textContent = 'Contact / Support';
     }
   });
@@ -46,8 +54,5 @@
   const nav = document.querySelector('.nav-links');
   menu?.addEventListener('click', () => nav?.classList.toggle('open'));
   nav?.querySelectorAll('a').forEach(a => a.addEventListener('click', () => nav.classList.remove('open')));
-
-  document.querySelectorAll('.faq-q').forEach(q => {
-    q.addEventListener('click', () => q.closest('.faq-item').classList.toggle('open'));
-  });
+  document.querySelectorAll('.faq-q').forEach(q => q.addEventListener('click', () => q.closest('.faq-item').classList.toggle('open')));
 })();
