@@ -13,6 +13,7 @@ window.AMOOPREP_CONFIG = {
     },
     "cs1103-programming-2": {
       title: "CS1103 Programming 2",
+      price: "$9.99",
       checkoutUrl: "https://amooprep.lemonsqueezy.com/checkout/buy/0fbe7fad-c20a-497e-90b6-b7d00b42b389",
       pageUrl: "courses/cs1103-programming-2.html",
       productId: 1277174,
