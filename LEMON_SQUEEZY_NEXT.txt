@@ -1,0 +1,26 @@
+LEMON SQUEEZY — WHAT TO ENTER AFTER THE SITE IS LIVE
+
+Business name:
+AmooPrep
+
+Website URL:
+Use the exact public GitHub Pages URL after deployment, for example:
+https://YOUR-GITHUB-USERNAME.github.io/amooprep/
+
+Country:
+United States
+
+After onboarding, create:
+Product: AmooPrep — Greek & Roman Civilization Premium
+Type: One-time purchase
+Planned launch price: $9.99
+License keys: Enabled
+Activation limit: 3
+License expiration: None
+
+Then save these for the extension/website integration:
+1. Reusable Lemon Squeezy checkout URL (/checkout/buy/...)
+2. Product ID
+3. Variant ID
+
+Do NOT place a secret Lemon Squeezy API key in the public website or Chrome extension.
