@@ -29,14 +29,21 @@
   });
 
   document.querySelectorAll('[data-chrome-store]').forEach(btn => {
-    if (cfg.chromeStoreUrl) {
-      btn.href = cfg.chromeStoreUrl;
+    const id = btn.dataset.courseId || pageCourseId;
+    const course = getCourse(id);
+    const storeUrl = course.chromeStoreUrl || cfg.chromeStoreUrl || '';
+
+    if (storeUrl) {
+      btn.hidden = false;
+      btn.href = storeUrl;
       btn.target = '_blank';
       btn.rel = 'noopener noreferrer';
+      if (!btn.textContent.trim()) btn.textContent = 'Install on Chrome';
     } else {
-      btn.href = internalUrl('courses/index.html');
-      btn.classList.add('btn-disabled');
-      if (/install|chrome web store/i.test(btn.textContent || '')) btn.textContent = 'Chrome Web Store — Coming Soon';
+      btn.hidden = true;
+      btn.removeAttribute('href');
+      btn.removeAttribute('target');
+      btn.removeAttribute('rel');
     }
   });
 
